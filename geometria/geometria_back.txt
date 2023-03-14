@@ -1,0 +1,10 @@
+RIV GARFIELD_BACKWARD cesio the0 themin themax
+1 216.0 145.15 139.9 150.4
+2 194.0 133.0  127.5 138.5
+3 172.0 120.0  113.5 126.5
+4 150.0 104.75 97.5 112.0
+PRESSIONE_GARFIELD_BACK 20 mbar
+TABELLA_PERDITE_GARFIELD tabella_perdite_garfield_600.txt
+CODICE_GARF codice_garf_csym.txt
+SOGLIE_GARF soglie_csi_csym.txt
+

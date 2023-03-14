@@ -1,0 +1,14 @@
+# n.istogramma chanx xmin xmax chany xmin xmax commenti
+# 1D
+neventi 200 0 200 1 1 1
+bit 10 0 10 1 1 1
+moltprimari 100 0 100 1 1 1
+mtot 100 0 100 1 1 1
+
+# 2D
+zthe 360 0 180 40 0 40 
+ros 2000 -20 20 2000 -20 20
+ros2 360 -180 180 360 -180 180
+zv 150 0 150 40 0 40
+test 150 0 150 40 0 40
+e1e2 400 0 200 400 0 200

@@ -1,0 +1,125 @@
+% ****** Start of file apssamp.tex ******
+%
+%   This file is part of the APS files in the REVTeX 4 distribution.
+%   Version 4.0 of REVTeX, August 2001
+%
+%   Copyright (c) 2001 The American Physical Society.
+%
+%   See the REVTeX 4 README file for restrictions and more information.
+%
+% TeX'ing this file requires that you have AMS-LaTeX 2.0 installed
+% as well as the rest of the prerequisites for REVTeX 4.0
+%
+% See the REVTeX 4 README file
+% It also requires running BibTeX. The commands are as follows:
+%
+%  1)  latex apssamp.tex
+%  2)  bibtex apssamp
+%  3)  latex apssamp.tex
+%  4)  latex apssamp.tex
+%
+\documentclass[twocolumn,showpacs,superscriptaddress,aps,prc,10pt,nofootinbib]{revtex4-1}
+\usepackage[pdftex]{graphicx}
+\usepackage[usenames,svgnames,table]{xcolor}
+\usepackage[english]{babel}
+\usepackage{ucs}
+\usepackage[utf8x]{inputenc}
+\usepackage{siunitx}
+\usepackage[version=3]{mhchem}
+\usepackage{multirow}
+\newcommand{\garf}{\textsc{Garfield}}
+\newcommand{\gemini}{\textsc{Gemini++}}
+\newcommand\T{\rule{0pt}{2.6ex}}       % Top strut
+\newcommand\B{\rule[-1.2ex]{0pt}{0pt}} % Bottom strut
+\begin{document}
+\sisetup{exponent-product = \cdot,per-mode = symbol,range-phrase = --,list-units = single,range-units = single,separate-uncertainty = true,table-number-alignment = center}
+
+
+\preprint{}
+
+\title{Comparison among neutron rich symmetric and asymmetric systems with $^{48}$Ca and $^{64}$Ni projectiles at Fermi energies.}
+% Force line breaks with \\
+
+ \author{XX}
+ \email{Corresponding author. e-mail: aa}
+ \affiliation{INFN Sezione di Firenze, I-50019 Sesto Fiorentino, Italy}
+
+
+
+\date{\today}% It is always \today, today,
+             %  but any date may be explicitly specified
+
+\begin{abstract}
+
+\end{abstract}
+
+\pacs{}% PACS, the Physics and Astronomy
+                             % Classification Scheme.
+%\keywords{Suggested keywords}%Use showkeys class option if keyword
+                              %display desired
+\maketitle
+
+
+\section{Introduction}
+
+In this work we will investigate both symmetric and asymmetric neutron rich systems, aiming at extracting the midvelocity component and in particular its isotopic composition. A comparison with the prediction of the AMD+GEMINI++ model, run with both a stiff and a soft symmetry energy recipe, is also shown. In fact some hints on the stiffness might be obtained looking at the most exotic isotopes \cite{Piantelli2021}, because they should keep some footprints of the dynamical phase, being rarely produced in the de-excitation phase.
+The investigated systems are the symmetric $^{64}$Ni+$^{64}$Ni at 32 MeV/nucleon and $^{48}$Ca+$^{48}$Ca at 35 MeV/nucleon and the strongly asymmetric $^{48}$Ca+$^{12}$C at 40 MeV/nucleon. In the case of the two symmetric systems, in semiperipheral collisions during the dynamical phase a neck structure develops between quasitarget (QT) and quasiprojectile (QP). Such a structure is supposed to be at density smaller than the normal one, therefore the drift mechanism should take place and neutron rich midvelocity fragments should be detected \cite{Baranisospin}. Moreover, since these systems are symmetric, no isospin diffusion should blur the isospin drift process. In the case of the asymmetric system, on the contrary, since the target is really very small, it is difficult to imagine the formation of a neck structure; therefore this reaction should represent a sort of benchmark for the symmetric ones, although not completely since the N/Z of the projectile is different from that of the target.
+
+The investigated experimental data have been acquired with different setups, all of them including FAZIA blocks, whose state-of-the art capability in terms of isotopic identification (up to Z$\sim$20-25, depending on the used identification technique) have been described in details elsewhere\cite{BougaultFAZIA,ValdreFazia,PastoreNIM,Pasquali2014,Carboni}. In particular the reaction $^{48}$Ca+$^{48}$Ca, belonging to the dataset discussed in \cite{Camaiani2021}, was collected with four FAZIA blocks in wall configuration (covered polar range: 2$^{\circ}$-8 $^{\circ}$), as shown in Fig. 1 of  \cite{Camaiani2021}; the asymmetric $^{48}$Ca+$^{12}$C, analyzed in \cite{FAZIAPRE}, was measured with six FAZIA blocks (Fig. 1 of \cite{FAZIAPRE}, wall configuration plus two side blocks, corresponding to a polar angular coverage between 1.7$^{\circ}$ and 7.6$^{\circ}$ and between 11.5$^{\circ}$ and 16.7$^{\circ}$, this last range with a limited coverage in azimuthal angle). The $^{64}$Ni+$^{64}$Ni, on the contrary, was acquired with the high coverage INDRA-FAZIA setup, as discussed in \cite{Ciampi2022}; the setup layout is shown in Fig. of 1 \cite{Ciampi2022}; the angular coverage of the FAZIA blocks, where the largest part of the isotopic identification takes place, is in the range 1.4$^{\circ}$-12.6$^{\circ}$, while INDRA rings\cite{INDRA1999} cover the polar region between 14$^{\circ}$ and 176$^{\circ}$.
+
+A so different angular coverage clearly entails additional problems in the comparison between the different systems; in particular light charged particles are strongly affected by the geometrical coverage, therefore any test involving them must be carefully evaluated and it is important to rely on the simulations to verify the efficiency effect.
+
+In this work only semiperipheral and/or peripheral events with multiplicity greater than 1 are taken into account; they are selected asking for only one big fragment with charge Z$\geq$0.5$\cdot$Z$_{P}$, where Z$_P$ is the projectile charge, forward emitted in the centre of mass (c.m.). In doing such a selection it is important to note that in case of the asymmetric reaction we are in reality selecting very damped collisions, with a strong contribution of incomplete fusion, also because the used setup cuts the most peripheral reactions (grazing angle 0.5$^{\circ}$).
+
+As already done in \cite{Camaiani2021} and \cite{Ciampi2022}, a sorting of semiperipheral and peripheral collisions as a function of their centrality can be obtained by means of the reduced momentum of the QP, calculated as \(p_{red}=\frac{p_z^{QP}}{p_{beam}}\), where $p_{beam}$ is the momentum of the beam (in c.m.) and $p_z^{QP}$ is the component along the beam axis of the QP momentum (again in c.m.), which is well correlated to the impact parameter, as shown in Fig. 6 of \cite{Ciampi2022} and in Fig. 4 (c) of \cite{Camaiani2021}. In this way the limited angular coverage of the setup for the Ca reaction is not an issue, since we are not exploiting sorting parameters related to the particle multiplicities. Concerning the asymmetric system, the reduced momentum is much less correlated to the impact parameter, due to the fact that, as already cited, the analyzed data correspond to damped collisions including also a large amount of incomplete fusion. Therefore for this system it will not be possible to follow the evolution with the centrality.
+  
+
+
+%\begin{table*}[htbp]
+%\begin{tabular}{|c|c|c|c|c|c|c|c|}
+%\hline
+%Beam&(N/Z)$_{proj}$&(N/Z)$_{sys}$&$\vartheta_{graz}$&b$_{graz}
+%$&$v_{c.m.}$&$v_{beam}$&$v_{beam}^{c.m.}$\\
+%MeV/nucleon&&&deg&fm&mm/ns&mm/ns&mm/ns\\
+%\hline\hline
+%$^{40}$Ca@25&1.0&1.0&1.0&8.6&53.5&69.5&16.0\\
+%\hline
+%$^{48}$Ca@25&1.4&1.31&0.9&8.8&55.6&69.5&13.9\\
+%\hline
+%$^{48}$Ca@40&1.4&1.31&0.5&8.9&70.3&87.9&17.6\\
+%\hline
+%\end{tabular}
+%\caption{Some characteristics of the investigated reactions. (N/Z)$_{proj}$ and (N/Z)$_{proj}$ are the isotopic composition of the projectile and of the whole system, respectively. $\vartheta_{graz}$ and b$_{graz}$ are the grazing angle in lab and the grazing impact parameter, respectively. $v_{c.m.}$, $v_{beam}$ and $v^{c.m.}_{beam}$ are the c.m. velocity, the beam velocity in lab and in c.m., respectively.}
+%\label{tab1}
+%\end{table*} 
+
+%\begin{figure}[htpb]
+%\includegraphics[width=0.5\textwidth]{fig1a4825.pdf}
+%\includegraphics[width=0.5\textwidth]{fig1c4825.pdf}
+%\caption{$^{48}$Ca@25 MeV/nucl. beam: (a) Charge-lab velocity correlation for all the ejectiles, experimental data; (b) Charge-lab velocity correlation for all the ejectiles, AMD+GEMINI++ simulation filtered via a software replica of the setup; c) lab velocity distribution of all the ejectiles, symbols (histogram): experimental (simulated) data. The dotted (continuous) arrow corresponds to the c.m. (beam) velocity. In the inset the velocity distribution for $Z<10$ is shown. d) Charge distribution for $Z>2$, symbols (histogram): experimental (simulated) data. All the spectra have been normalized to their integral.}
+%\label{fig1}
+%\end{figure}
+
+
+%\begin{figure*}[htpb]
+%\begin{figure}[htpb]
+%\begin{tabular}{cc}
+%\includegraphics[width=0.4\textwidth]{figz1z2.pdf}&\includegraphics[width=0.4\textwidth]{fig3.pdf}\\
+%\includegraphics[width=0.4\textwidth]{figzb.pdf}&\includegraphics[width=0.4\textwidth]{figzs.pdf}\\
+%\includegraphics[width=0.25\textwidth]{figz1z2.pdf}&\includegraphics[width=0.25\textwidth]{fig3.pdf}\\
+%\includegraphics[width=0.25\textwidth]{figzb.pdf}&\includegraphics[width=0.25\textwidth]{figzs.pdf}\\
+%\end{tabular}
+%\caption{(a): $Z_{LF}$ vs. $Z_{HF}$ correlation for $^{48}$Ca at 25 MeV/nucl. (b) $\eta$ distribution for all the systems (c) $Z_{HF}$ distribution for all the systems. (d) $Z_{LF}$ distribution for all the systems. Each histogram has been normalized to its integral}
+%\label{fig3}
+%\end{figure*}
+%\end{figure}
+
+
+
+
+\bibliography{biblio}
+
+
+\end{document}
+%
+% ****** End of file apssamp.tex ******

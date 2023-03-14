@@ -1,0 +1,30 @@
+# dati reazione (Zp Ap Zt At E/A spess_target_microg/cm2)
+REAC 22 48 20 40 12.5 500 128
+# tipo nome_file (lista istogrammi)
+HISTO lista_histo.txt
+
+
+# tipo nome_file geo/4pi n.eventi evento_iniziale
+#MC geminitree_jacobi_Ti600.0.root 4pi 5 0
+#MC geminitree_jacobi_Ti600.0.root 4pi -1
+#MC geminitree_jacobi_Ti600.0.root geo -1
+#MC geminitree_jacobi_Ti600.0.root geo 1000 0
+#MC /garf01/gemini_data/gemini_gdr_TiCa600_t1_b.cfg.root 4pi 100 0
+MC /garf01/gemini_data/gemini_gdr_TiCa600_t1_b.cfg.root geo 1000 0
+
+
+# tipo nome_file n.eventi evento_iniziale
+#EXP-READ file in forma leggibile
+#EXPCOMP file in forma compatta
+#EXP-READ odie_Phos_tree_3run_human_1p.root 5 0
+#EXP-READ odie_Phos_tree_3run_human_1p.root -1
+#EXPCOMP odie_Phos_tree_3run_comp_1p_ga.root -1
+#EXPCOMP GARFIELD_phos_2sett_090207214414_compa.root -1
+#EXPCOMP GARFIELD_phos_8sett_090207214414_compa.root -1
+#EXPCOMP /garf01/workja/rootfiles/Jacobi600allstat_withbaf_9mag.root -1
+
+USCITA gamma_exp.root
+GEO geometria_jacobi300.txt
+
+
+

@@ -1,0 +1,1423 @@
+neventi 200 0 200 1 1 1
+molt 50 0 50 1 1 1
+code2 400 0 400 1 1 1
+zv 150 0 150 40 0 40
+zvm 150 0 150 40 0 40
+zvcm 150 0 150 40 0 40
+ztotthebiggest 180 0 90 100 0 100
+tflowztot 180 0 90 100 0 100
+tflowztotgood 180 0 90 100 0 100
+ztotptotz 200 0 2 100 0 100
+mfrag 10 0 10 1 1 1
+zvsel1big 150 0 150 40 0 40
+zvsel1bigvzpos 150 0 150 40 0 40
+znbig 5000 0 5000 1 1 1
+gnzbig
+zndic 5000 0 5000 1 1 1
+gnzdic
+znfis 5000 0 5000 1 1 1
+gnzfis
+zndic18 5000 0 5000 1 1 1
+gnzdic18
+zndic18qt 5000 0 5000 1 1 1
+gnzdic18qt
+znfis18 5000 0 5000 1 1 1
+gnzfis18
+
+zniqp 5000 0 5000 1 1 1
+gnziqp
+zniqp18 5000 0 5000 1 1 1
+gnziqp18
+zndic0 5000 0 5000 1 1 1
+gnzdic0
+zvsel1 150 0 150 40 0 40
+zvsel1altri 150 0 150 40 0 40
+zvgrossone 150 0 150 40 0 40
+zvgrossone18 150 0 150 40 0 40
+zvgrossonet 150 0 150 40 0 40
+zvgrossonet18 150 0 150 40 0 40
+zngrossone 5000 0 5000 1 1 1
+gnzgrossone
+zngrossone18 5000 0 5000 1 1 1
+gnzgrossone18
+vreltherelsel1 200 0 100 180 0 180
+vreltherelsel1vpos 200 0 100 180 0 180
+vreltherelsel1gt5 200 0 100 180 0 180
+vreltherelsel1vposgt5 200 0 100 180 0 180
+vreltherelselgrossone 200 0 100 180 0 180
+vreltherelselgrossone18 200 0 100 180 0 180
+vreltherelselgrossonegt5 200 0 100 180 0 180
+vreltherelselgrossonegt518 200 0 100 180 0 180
+mfragdic 10 0 10 1 1 1
+mfragdic18 10 0 10 1 1 1
+nzimfdic 5000 0 5000 1 1 1
+znvimfdic 5000 0 5000 20 -100 100
+gnzimfdic
+gznvimfdic1
+gznvimfdic2
+gznvimfdic3
+gznvimfdic4
+gznvimfdic5
+gznvimfdic6
+gznvimfdic7
+gznvimfdic8
+gznvimfdic9
+gznvimfdic10
+gznvimfdic11
+gznvimfdic12
+gznvimfdic13
+gznvimfdic14
+gznvimfdic15
+gznvimfdic16
+gznvimfdic17
+gznvimfdic18
+gznvimfdic19
+gznvimfdic20
+gznvimfdic21
+gznvimfdic22
+gznvimfdic23
+gznvimfdic24
+gznvimfdic25
+gznvimfdic26
+
+
+nzimfdic18 5000 0 5000 1 1 1
+znvimfdic18 5000 0 5000 20 -100 100
+gnzimf18dic
+gznvimf18dic1
+gznvimf18dic2
+gznvimf18dic3
+gznvimf18dic4
+gznvimf18dic5
+gznvimf18dic6
+gznvimf18dic7
+gznvimf18dic8
+gznvimf18dic9
+gznvimf18dic10
+gznvimf18dic11
+gznvimf18dic12
+gznvimf18dic13
+gznvimf18dic14
+gznvimf18dic15
+gznvimf18dic16
+gznvimf18dic17
+gznvimf18dic18
+gznvimf18dic19
+gznvimf18dic20
+gznvimf18dic21
+gznvimf18dic22
+gznvimf18dic23
+gznvimf18dic24
+gznvimf18dic25
+gznvimf18dic26
+
+
+
+
+nzconqp 5000 0 5000 1 1 1
+gnzconqp
+nzconqp18 5000 0 5000 1 1 1
+gnzconqp18
+nzconqpalpha 5000 0 5000 18 0 180
+nzconqp18alpha 5000 0 5000 18 0 180
+
+gnzconqpv1
+gnzconqpv2
+gnzconqpv3
+gnzconqpv4
+gnzconqpv5
+gnzconqpv6
+gnzconqpv7
+gnzconqpv8
+gnzconqpv9
+gnzconqpv10
+gnzconqpv11
+gnzconqpv12
+gnzconqpv13
+gnzconqpv14
+gnzconqpv15
+gnzconqpv16
+gnzconqpv17
+gnzconqpv18
+gnzconqpv19
+gnzconqpv20
+gnzconqpv21
+gnzconqpv22
+gnzconqpv23
+gnzconqpv24
+gnzconqpv25
+gnzconqpv26
+
+
+gnzconqpalpha1
+gnzconqpalpha2
+gnzconqpalpha3
+gnzconqpalpha4
+gnzconqpalpha5
+gnzconqpalpha6
+gnzconqpalpha7
+gnzconqpalpha8
+gnzconqpalpha9
+gnzconqpalpha10
+gnzconqpalpha11
+gnzconqpalpha12
+gnzconqpalpha13
+gnzconqpalpha14
+gnzconqpalpha15
+gnzconqpalpha16
+gnzconqpalpha17
+gnzconqpalpha18
+gnzconqpalpha19
+gnzconqpalpha20
+gnzconqpalpha21
+gnzconqpalpha22
+gnzconqpalpha23
+gnzconqpalpha24
+gnzconqpalpha25
+gnzconqpalpha26
+
+gnzconqp18alpha1
+gnzconqp18alpha2
+gnzconqp18alpha3
+gnzconqp18alpha4
+gnzconqp18alpha5
+gnzconqp18alpha6
+gnzconqp18alpha7
+gnzconqp18alpha8
+gnzconqp18alpha9
+gnzconqp18alpha10
+gnzconqp18alpha11
+gnzconqp18alpha12
+gnzconqp18alpha13
+gnzconqp18alpha14
+gnzconqp18alpha15
+gnzconqp18alpha16
+gnzconqp18alpha17
+gnzconqp18alpha18
+gnzconqp18alpha19
+gnzconqp18alpha20
+gnzconqp18alpha21
+gnzconqp18alpha22
+gnzconqp18alpha23
+gnzconqp18alpha24
+gnzconqp18alpha25
+gnzconqp18alpha26
+
+
+
+gnzconqp18v1
+gnzconqp18v2
+gnzconqp18v3
+gnzconqp18v4
+gnzconqp18v5
+gnzconqp18v6
+gnzconqp18v7
+gnzconqp18v8
+gnzconqp18v9
+gnzconqp18v10
+gnzconqp18v11
+gnzconqp18v12
+gnzconqp18v13
+gnzconqp18v14
+gnzconqp18v15
+gnzconqp18v16
+gnzconqp18v17
+gnzconqp18v18
+gnzconqp18v19
+gnzconqp18v20
+gnzconqp18v21
+gnzconqp18v22
+gnzconqp18v23
+gnzconqp18v24
+gnzconqp18v25
+gnzconqp18v26
+
+
+occhiz3dic 200 -100 100 100 0 100
+occhiz4dic 200 -100 100 100 0 100
+occhiz5dic 200 -100 100 100 0 100
+occhiz6dic 200 -100 100 100 0 100
+occhiz3dic18 200 -100 100 100 0 100
+occhiz4dic18 200 -100 100 100 0 100
+occhiz5dic18 200 -100 100 100 0 100
+occhiz6dic18 200 -100 100 100 0 100
+
+occhiadic 200 -100 100 100 0 100
+occhipdic 200 -100 100 100 0 100
+occhiadic18 200 -100 100 100 0 100
+occhipdic18 200 -100 100 100 0 100
+occhiadictot 200 -100 100 100 0 100
+occhipdictot 200 -100 100 100 0 100
+occhiadictot18 200 -100 100 100 0 100
+occhipdictot18 200 -100 100 100 0 100
+
+diff 50 0 50 100 0 1000
+wilc 90 0 90 100 0 1000
+diff18 50 0 50 100 0 1000
+wilc18 90 0 90 100 0 1000
+
+z12therelsel1 50 0 50 180 0 180
+zvqpsolo 150 0 150 40 0 40
+zvqpsoloaltri 150 0 150 40 0 40
+zvqpsolo18 150 0 150 40 0 40
+zvqpsoloaltri18 150 0 150 40 0 40
+
+cond 3 -1 2 3 -1 2
+cond2 3 -1 2 3 -1 2
+
+z1z2dic 40 0 40 40 0 40 
+z1z2fis 40 0 40 40 0 40
+z1z2dic18 40 0 40 40 0 40 
+z1z2fis18 40 0 40 40 0 40
+
+zvfiscoppia 150 0 150 40 0 40
+zvfiscoppiavzpos 150 0 150 40 0 40
+zvfiscoppia18 150 0 150 40 0 40
+zvfiscoppiavzpos18 150 0 150 40 0 40
+
+nsuzlcp 100 0 2 1 1 1
+nsuzlcpneg 100 0 2 1 1 1
+
+nzvmagqp 5000 0 5000 1 1 1
+nzvminqp 5000 0 5000 1 1 1
+gnzvmagqp
+gnzvminqp
+nzvminqpvpos 5000 0 5000 1 1 1
+nzvneg 5000 0 5000 1 1 1
+gnzvminqpvpos
+gnzvneg
+
+nzvmagqp18 5000 0 5000 1 1 1
+nzvminqp18 5000 0 5000 1 1 1
+gnzvmagqp18
+gnzvminqp18
+nzvminqpvpos18 5000 0 5000 1 1 1
+nzvneg18 5000 0 5000 1 1 1
+gnzvminqpvpos18
+gnzvneg18
+
+zvseldic 150 0 150 40 0 40
+zvseldicaltri 150 0 150 40 0 40
+zvseldictutti 150 0 150 40 0 40
+zvseldictutti18 150 0 150 40 0 40
+zvseldicqpqt 150 0 150 40 0 40
+zvseldicqpqt18 150 0 150 40 0 40
+zvseldicqpqtneck 150 0 150 40 0 40
+
+zvseldic18 150 0 150 40 0 40
+zvseldicaltri18 150 0 150 40 0 40
+
+tflowtbiggest 180 0 90 180 0 90
+
+mfragmgt2 10 0 10 1 1 1
+
+occhiafis 200 -100 100 100 0 100
+occhiagrossone 200 -100 100 100 0 100
+
+vparzidic 40 0 40 300 -150 150
+vparzidic18 40 0 40 300 -150 150
+vparzidiciqp 40 0 40 300 -150 150
+vparzidiciqp18 40 0 40 300 -150 150
+
+zvthe0 150 0 150 40 0 40
+zvthe1 150 0 150 40 0 40
+zvthe2 150 0 150 40 0 40
+zvthe3 150 0 150 40 0 40
+zvthe4 150 0 150 40 0 40
+zvthe5 150 0 150 40 0 40
+zvthe6 150 0 150 40 0 40
+zvthe7 150 0 150 40 0 40
+zvthe8 150 0 150 40 0 40
+zvthe9 150 0 150 40 0 40
+zvthe10 150 0 150 40 0 40
+
+
+therelvrel01 200 0 100 180 0 180
+therelvrel02 200 0 100 180 0 180
+
+zv3 150 0 150 40 0 40
+
+nztutti 5000 0 5000 1 1 1
+gnztutti
+
+zalphaiqp 18 0 180 40 0 40 
+zalphaidic 18 0 180 40 0 40 
+zalphaifiss_small 18 0 180 40 0 40 
+zalphaifiss_big 18 0 180 40 0 40 
+zalphaifiss_tutti 18 0 180 40 0 40
+zalphaidicneck 18 0 180 40 0 40
+zalphaifiss_eta 18 0 180 10 0 1 
+
+zalphaifiss18_small 18 0 180 40 0 40 
+zalphaifiss18_big 18 0 180 40 0 40 
+#zalphaifiss18_eta 18 0 180 10 0 1 
+zalphaifiss18_eta 20 -1 1 10 0 1 
+
+
+grap0
+grap1
+grap2
+grap3
+grap4
+grap5
+grap6
+
+deltaealqp 40 0 40 20 -10 10 
+deltaealfis 40 0 40 20 -10 10 
+corrdeltaeal 20 -10 10 20 -10 10
+
+deltaealeta 10 0 1 20 -10 10
+deltaealztot 40 0 40 20 -10 10
+deltaeal2eta 10 0 1 20 -10 10
+deltaeal2ztot 40 0 40 20 -10 10
+
+nzf1 5000 0 5000 1 1 1
+gnzf1
+nzf2 5000 0 5000 1 1 1
+gnzf2
+nzf1alpha 5000 0 5000 18 0 180
+nzf2alpha 5000 0 5000 18 0 180
+
+
+gnzf1alpha1
+gnzf1alpha2
+gnzf1alpha3
+gnzf1alpha4
+gnzf1alpha5
+gnzf1alpha6
+gnzf1alpha7
+gnzf1alpha8
+gnzf1alpha9
+gnzf1alpha10
+gnzf1alpha11
+gnzf1alpha12
+gnzf1alpha13
+gnzf1alpha14
+gnzf1alpha15
+gnzf1alpha16
+gnzf1alpha17
+gnzf1alpha18
+gnzf1alpha19
+gnzf1alpha20
+gnzf1alpha21
+gnzf1alpha22
+gnzf1alpha23
+gnzf1alpha24
+gnzf1alpha25
+gnzf1alpha26
+
+gnzf2alpha1
+gnzf2alpha2
+gnzf2alpha3
+gnzf2alpha4
+gnzf2alpha5
+gnzf2alpha6
+gnzf2alpha7
+gnzf2alpha8
+gnzf2alpha9
+gnzf2alpha10
+gnzf2alpha11
+gnzf2alpha12
+gnzf2alpha13
+gnzf2alpha14
+gnzf2alpha15
+gnzf2alpha16
+gnzf2alpha17
+gnzf2alpha18
+gnzf2alpha19
+gnzf2alpha20
+gnzf2alpha21
+gnzf2alpha22
+gnzf2alpha23
+gnzf2alpha24
+gnzf2alpha25
+gnzf2alpha26
+
+
+nzf1lt90 5000 0 5000 1 1 1
+gnzf1lt90
+nzf2lt90 5000 0 5000 1 1 1
+gnzf2lt90
+
+
+nzf1lt90b1 5000 0 5000 1 1 1
+gnzf1lt90b1
+nzf1lt90f5 5000 0 5000 1 1 1
+gnzf1lt90f5
+nzf1lt90f6 5000 0 5000 1 1 1
+gnzf1lt90f6
+nzf1lt90f7 5000 0 5000 1 1 1
+gnzf1lt90f7
+nzf1lt90f8 5000 0 5000 1 1 1
+gnzf1lt90f8
+nzf1lt90f9 5000 0 5000 1 1 1
+gnzf1lt90f9
+nzf1lt90f10 5000 0 5000 1 1 1
+gnzf1lt90f10
+nzf1lt90f11 5000 0 5000 1 1 1
+gnzf1lt90f11
+nzf1lt90f12 5000 0 5000 1 1 1
+gnzf1lt90f12
+nzf1lt90f13 5000 0 5000 1 1 1
+gnzf1lt90f13
+nzf1lt90f14 5000 0 5000 1 1 1
+gnzf1lt90f14
+
+b 150 0 15 1 1 1
+bfiltrato 150 0 15 1 1 1
+bidic 150 0 15 1 1 1
+biqp 150 0 15 1 1 1
+bifis 150 0 15 1 1 1
+bicent 150 0 15 1 1 1
+
+nz18f1 5000 0 5000 1 1 1
+gnz18f1
+nz18f2 5000 0 5000 1 1 1
+gnz18f2
+nz18f1alpha 5000 0 5000 18 0 180
+nz18f2alpha 5000 0 5000 18 0 180
+
+
+gnz18f1alpha1
+gnz18f1alpha2
+gnz18f1alpha3
+gnz18f1alpha4
+gnz18f1alpha5
+gnz18f1alpha6
+gnz18f1alpha7
+gnz18f1alpha8
+gnz18f1alpha9
+gnz18f1alpha10
+gnz18f1alpha11
+gnz18f1alpha12
+gnz18f1alpha13
+gnz18f1alpha14
+gnz18f1alpha15
+gnz18f1alpha16
+gnz18f1alpha17
+gnz18f1alpha18
+gnz18f1alpha19
+gnz18f1alpha20
+gnz18f1alpha21
+gnz18f1alpha22
+gnz18f1alpha23
+gnz18f1alpha24
+gnz18f1alpha25
+gnz18f1alpha26
+
+gnz18f2alpha1
+gnz18f2alpha2
+gnz18f2alpha3
+gnz18f2alpha4
+gnz18f2alpha5
+gnz18f2alpha6
+gnz18f2alpha7
+gnz18f2alpha8
+gnz18f2alpha9
+gnz18f2alpha10
+gnz18f2alpha11
+gnz18f2alpha12
+gnz18f2alpha13
+gnz18f2alpha14
+gnz18f2alpha15
+gnz18f2alpha16
+gnz18f2alpha17
+gnz18f2alpha18
+gnz18f2alpha19
+gnz18f2alpha20
+gnz18f2alpha21
+gnz18f2alpha22
+gnz18f2alpha23
+gnz18f2alpha24
+gnz18f2alpha25
+gnz18f2alpha26
+
+
+nz18f1lt90 5000 0 5000 1 1 1
+gnz18f1lt90
+nz18f2lt90 5000 0 5000 1 1 1
+gnz18f2lt90
+
+
+nz18f1lt90b1 5000 0 5000 1 1 1
+gnz18f1lt90b1
+nz18f1lt90f5 5000 0 5000 1 1 1
+gnz18f1lt90f5
+nz18f1lt90f6 5000 0 5000 1 1 1
+gnz18f1lt90f6
+nz18f1lt90f7 5000 0 5000 1 1 1
+gnz18f1lt90f7
+nz18f1lt90f8 5000 0 5000 1 1 1
+gnz18f1lt90f8
+nz18f1lt90f9 5000 0 5000 1 1 1
+gnz18f1lt90f9
+nz18f1lt90f10 5000 0 5000 1 1 1
+gnz18f1lt90f10
+nz18f1lt90f11 5000 0 5000 1 1 1
+gnz18f1lt90f11
+nz18f1lt90f12 5000 0 5000 1 1 1
+gnz18f1lt90f12
+nz18f1lt90f13 5000 0 5000 1 1 1
+gnz18f1lt90f13
+nz18f1lt90f14 5000 0 5000 1 1 1
+gnz18f1lt90f14
+
+nzqplt90 5000 0 5000 1 1 1
+gnzqplt90
+
+nzqplt90f3 5000 0 5000 1 1 1
+gnzqplt90f3
+nzqplt90f4 5000 0 5000 1 1 1
+gnzqplt90f4
+nzqplt90f5 5000 0 5000 1 1 1
+gnzqplt90f5
+nzqplt90f6 5000 0 5000 1 1 1
+gnzqplt90f6
+nzqplt90f7 5000 0 5000 1 1 1
+gnzqplt90f7
+nzqplt90f8 5000 0 5000 1 1 1
+gnzqplt90f8
+nzqplt90f9 5000 0 5000 1 1 1
+gnzqplt90f9
+nzqplt90f10 5000 0 5000 1 1 1
+gnzqplt90f10
+nzqplt90f11 5000 0 5000 1 1 1
+gnzqplt90f11
+nzqplt90f12 5000 0 5000 1 1 1
+gnzqplt90f12
+nzqplt90f13 5000 0 5000 1 1 1
+gnzqplt90f13
+nzqplt90f14 5000 0 5000 1 1 1
+gnzqplt90f14
+
+
+nzqp18lt90 5000 0 5000 1 1 1
+gnzqp18lt90
+
+nzqp18lt90f3 5000 0 5000 1 1 1
+gnzqp18lt90f3
+nzqp18lt90f4 5000 0 5000 1 1 1
+gnzqp18lt90f4
+nzqp18lt90f5 5000 0 5000 1 1 1
+gnzqp18lt90f5
+nzqp18lt90f6 5000 0 5000 1 1 1
+gnzqp18lt90f6
+nzqp18lt90f7 5000 0 5000 1 1 1
+gnzqp18lt90f7
+nzqp18lt90f8 5000 0 5000 1 1 1
+gnzqp18lt90f8
+nzqp18lt90f9 5000 0 5000 1 1 1
+gnzqp18lt90f9
+nzqp18lt90f10 5000 0 5000 1 1 1
+gnzqp18lt90f10
+nzqp18lt90f11 5000 0 5000 1 1 1
+gnzqp18lt90f11
+nzqp18lt90f12 5000 0 5000 1 1 1
+gnzqp18lt90f12
+nzqp18lt90f13 5000 0 5000 1 1 1
+gnzqp18lt90f13
+nzqp18lt90f14 5000 0 5000 1 1 1
+gnzqp18lt90f14
+
+massagrossone 50 0 50 1 1 1
+thecmvcmicent 100 0 100 180 0 180 
+thecmvcmidic 100 0 100 180 0 180 
+thecmvcmifis 100 0 100 180 0 180 
+thecmvcmiqp 100 0 100 180 0 180 
+thecmvcmtot 100 0 100 180 0 180
+thecmtot 180 0 180 1 1 1 
+thevlabvlabtot 1000 0 100 20 0 20
+gnzfiscoppiasmall
+znfiscoppiasmall 5000 0 5000 1 1 1
+gnzfiscoppiamid
+znfiscoppiamid 5000 0 5000 1 1 1
+gnzfiscoppiabig
+znfiscoppiabig 5000 0 5000 1 1 1
+
+tflowtheorico 180 0 90 120 0 12
+tflowtheorico1 180 0 90 120 0 12
+tflowtheorico2 180 0 90 120 0 12
+tflowtheorico3 180 0 90 120 0 12
+tflowtbiggestmolt 10 0 10 1000 -100 100
+
+
+ab0q1t1 2000 0 2000 25 0 25
+ab0q1t2 2000 0 2000 25 0 25
+ab0q1t3 2000 0 2000 25 0 25
+ab0q1t4 2000 0 2000 25 0 25
+ab0q2t1 2000 0 2000 25 0 25
+ab0q2t2 2000 0 2000 25 0 25
+ab0q2t3 2000 0 2000 25 0 25
+ab0q2t4 2000 0 2000 25 0 25
+ab0q3t1 2000 0 2000 25 0 25
+ab0q3t2 2000 0 2000 25 0 25
+ab0q3t3 2000 0 2000 25 0 25
+ab0q3t4 2000 0 2000 25 0 25
+ab0q4t1 2000 0 2000 25 0 25
+ab0q4t2 2000 0 2000 25 0 25
+ab0q4t3 2000 0 2000 25 0 25
+ab0q4t4 2000 0 2000 25 0 25
+ab1q1t1 2000 0 2000 25 0 25
+ab1q1t2 2000 0 2000 25 0 25
+ab1q1t3 2000 0 2000 25 0 25
+ab1q1t4 2000 0 2000 25 0 25
+ab1q2t1 2000 0 2000 25 0 25
+ab1q2t2 2000 0 2000 25 0 25
+ab1q2t3 2000 0 2000 25 0 25
+ab1q2t4 2000 0 2000 25 0 25
+ab1q3t1 2000 0 2000 25 0 25
+ab1q3t2 2000 0 2000 25 0 25
+ab1q3t3 2000 0 2000 25 0 25
+ab1q3t4 2000 0 2000 25 0 25
+ab1q4t1 2000 0 2000 25 0 25
+ab1q4t2 2000 0 2000 25 0 25
+ab1q4t3 2000 0 2000 25 0 25
+ab1q4t4 2000 0 2000 25 0 25
+ab2q1t1 2000 0 2000 25 0 25
+ab2q1t2 2000 0 2000 25 0 25
+ab2q1t3 2000 0 2000 25 0 25
+ab2q1t4 2000 0 2000 25 0 25
+ab2q2t1 2000 0 2000 25 0 25
+ab2q2t2 2000 0 2000 25 0 25
+ab2q2t3 2000 0 2000 25 0 25
+ab2q2t4 2000 0 2000 25 0 25
+ab2q3t1 2000 0 2000 25 0 25
+ab2q3t2 2000 0 2000 25 0 25
+ab2q3t3 2000 0 2000 25 0 25
+ab2q3t4 2000 0 2000 25 0 25
+ab2q4t1 2000 0 2000 25 0 25
+ab2q4t2 2000 0 2000 25 0 25
+ab2q4t3 2000 0 2000 25 0 25
+ab2q4t4 2000 0 2000 25 0 25
+ab3q1t1 2000 0 2000 25 0 25
+ab3q1t2 2000 0 2000 25 0 25
+ab3q1t3 2000 0 2000 25 0 25
+ab3q1t4 2000 0 2000 25 0 25
+ab3q2t1 2000 0 2000 25 0 25
+ab3q2t2 2000 0 2000 25 0 25
+ab3q2t3 2000 0 2000 25 0 25
+ab3q2t4 2000 0 2000 25 0 25
+ab3q3t1 2000 0 2000 25 0 25
+ab3q3t2 2000 0 2000 25 0 25
+ab3q3t3 2000 0 2000 25 0 25
+ab3q3t4 2000 0 2000 25 0 25
+ab3q4t1 2000 0 2000 25 0 25
+ab3q4t2 2000 0 2000 25 0 25
+ab3q4t3 2000 0 2000 25 0 25
+ab3q4t4 2000 0 2000 25 0 25
+
+zb0q1t1 2000 0 2000 40 0 40
+zb0q1t2 2000 0 2000 40 0 40
+zb0q1t3 2000 0 2000 40 0 40
+zb0q1t4 2000 0 2000 40 0 40
+zb0q2t1 2000 0 2000 40 0 40
+zb0q2t2 2000 0 2000 40 0 40
+zb0q2t3 2000 0 2000 40 0 40
+zb0q2t4 2000 0 2000 40 0 40
+zb0q3t1 2000 0 2000 40 0 40
+zb0q3t2 2000 0 2000 40 0 40
+zb0q3t3 2000 0 2000 40 0 40
+zb0q3t4 2000 0 2000 40 0 40
+zb0q4t1 2000 0 2000 40 0 40
+zb0q4t2 2000 0 2000 40 0 40
+zb0q4t3 2000 0 2000 40 0 40
+zb0q4t4 2000 0 2000 40 0 40
+zb1q1t1 2000 0 2000 40 0 40
+zb1q1t2 2000 0 2000 40 0 40
+zb1q1t3 2000 0 2000 40 0 40
+zb1q1t4 2000 0 2000 40 0 40
+zb1q2t1 2000 0 2000 40 0 40
+zb1q2t2 2000 0 2000 40 0 40
+zb1q2t3 2000 0 2000 40 0 40
+zb1q2t4 2000 0 2000 40 0 40
+zb1q3t1 2000 0 2000 40 0 40
+zb1q3t2 2000 0 2000 40 0 40
+zb1q3t3 2000 0 2000 40 0 40
+zb1q3t4 2000 0 2000 40 0 40
+zb1q4t1 2000 0 2000 40 0 40
+zb1q4t2 2000 0 2000 40 0 40
+zb1q4t3 2000 0 2000 40 0 40
+zb1q4t4 2000 0 2000 40 0 40
+zb2q1t1 2000 0 2000 40 0 40
+zb2q1t2 2000 0 2000 40 0 40
+zb2q1t3 2000 0 2000 40 0 40
+zb2q1t4 2000 0 2000 40 0 40
+zb2q2t1 2000 0 2000 40 0 40
+zb2q2t2 2000 0 2000 40 0 40
+zb2q2t3 2000 0 2000 40 0 40
+zb2q2t4 2000 0 2000 40 0 40
+zb2q3t1 2000 0 2000 40 0 40
+zb2q3t2 2000 0 2000 40 0 40
+zb2q3t3 2000 0 2000 40 0 40
+zb2q3t4 2000 0 2000 40 0 40
+zb2q4t1 2000 0 2000 40 0 40
+zb2q4t2 2000 0 2000 40 0 40
+zb2q4t3 2000 0 2000 40 0 40
+zb2q4t4 2000 0 2000 40 0 40
+zb3q1t1 2000 0 2000 40 0 40
+zb3q1t2 2000 0 2000 40 0 40
+zb3q1t3 2000 0 2000 40 0 40
+zb3q1t4 2000 0 2000 40 0 40
+zb3q2t1 2000 0 2000 40 0 40
+zb3q2t2 2000 0 2000 40 0 40
+zb3q2t3 2000 0 2000 40 0 40
+zb3q2t4 2000 0 2000 40 0 40
+zb3q3t1 2000 0 2000 40 0 40
+zb3q3t2 2000 0 2000 40 0 40
+zb3q3t3 2000 0 2000 40 0 40
+zb3q3t4 2000 0 2000 40 0 40
+zb3q4t1 2000 0 2000 40 0 40
+zb3q4t2 2000 0 2000 40 0 40
+zb3q4t3 2000 0 2000 40 0 40
+zb3q4t4 2000 0 2000 40 0 40
+
+
+test 50 0 50 400 0 400
+test2 10 0 10 400 0 400
+
+nfissuz3fragv 5000 0 5000 20 -100 100
+gnfissuz3fragv_l1
+gnfissuz3fragv_l2
+gnfissuz3fragv_l3
+gnfissuz3fragv_l4
+gnfissuz3fragv_l5
+gnfissuz3fragv_l6
+gnfissuz3fragv_l7
+gnfissuz3fragv_l8
+gnfissuz3fragv_l9
+gnfissuz3fragv_l10
+gnfissuz3fragv_l11
+gnfissuz3fragv_l12
+gnfissuz3fragv_l13
+gnfissuz3fragv_l14
+gnfissuz3fragv_l15
+gnfissuz3fragv_l16
+gnfissuz3fragv_l17
+gnfissuz3fragv_l18
+gnfissuz3fragv_l19
+gnfissuz3fragv_l20
+gnfissuz3fragv_l21
+gnfissuz3fragv_l22
+gnfissuz3fragv_l23
+gnfissuz3fragv_l24
+gnfissuz3fragv_l25
+gnfissuz3fragv_l26
+
+nzdic18frag3v 5000 0 5000 20 -100 100
+gnzdic18frag3v_l1
+gnzdic18frag3v_l2
+gnzdic18frag3v_l3
+gnzdic18frag3v_l4
+gnzdic18frag3v_l5
+gnzdic18frag3v_l6
+gnzdic18frag3v_l7
+gnzdic18frag3v_l8
+gnzdic18frag3v_l9
+gnzdic18frag3v_l10
+gnzdic18frag3v_l11
+gnzdic18frag3v_l12
+gnzdic18frag3v_l13
+gnzdic18frag3v_l14
+gnzdic18frag3v_l15
+gnzdic18frag3v_l16
+gnzdic18frag3v_l17
+gnzdic18frag3v_l18
+gnzdic18frag3v_l19
+gnzdic18frag3v_l20
+gnzdic18frag3v_l21
+gnzdic18frag3v_l22
+gnzdic18frag3v_l23
+gnzdic18frag3v_l24
+gnzdic18frag3v_l25
+gnzdic18frag3v_l26
+
+molt3frag 50 0 50 1 1 1
+moltgrossone 50 0 50 1 1 1
+moltdic3frag 50 0 50 1 1 1
+fraggrossone 50 0 50 1 1 1
+
+gnfissuz3frag
+nfissuz3frag 5000 0 5000 1 1 1
+gnzdic18frag3
+nzdic18frag3 5000 0 5000 1 1 1
+
+gnziqpsigma
+gnziqpsigma18
+gnzgrossonesigma
+gnzgrossonesigma18
+gnzf1sigma
+gnzf2sigma
+gnztuttisigma
+gnzdicsigma
+gnzdicsigma18
+gnzdicsigma18qt
+gnzfissigma
+gnzfissigma18
+gnzconqpsigma
+gnzconqpsigma18
+
+nzconqp18v 5000 0 5000 14 -100 100
+nzconqpv 5000 0 5000 14 -100 100
+
+
+z1vsz1z2 50 0 50 50 0 50
+z2vsz1z2 50 0 50 50 0 50
+z1z2vsvlab18 150 0 150 50 0 50
+z1z2vsvcm18 100 -50 50 50 0 50
+etavsvcm 100 -50 50 10 0 1
+etavsvlab 150 0 150 10 0 1
+zvf1 150 0 150 40 0 40
+zvf2 150 0 150 40 0 40
+
+nz18f1alphaleq60 5000 0 5000 1 1 1
+gnz18f1alphaleq60
+nz18f1alphageq100 5000 0 5000 1 1 1
+gnz18f1alphageq100
+nz18f1etaleq03 5000 0 5000 1 1 1
+gnz18f1etaleq03
+nz18f1etageq04 5000 0 5000 1 1 1
+gnz18f1etageq04
+nz18f2alphaleq60 5000 0 5000 1 1 1
+gnz18f2alphaleq60
+nz18f2alphageq100 5000 0 5000 1 1 1
+gnz18f2alphageq100
+nz18f2etaleq03 5000 0 5000 1 1 1
+gnz18f2etaleq03
+nz18f2etageq04 5000 0 5000 1 1 1
+gnz18f2etageq04
+nz18coppiaalphaleq60 5000 0 5000 1 1 1
+gnz18coppiaalphaleq60
+nz18coppiaalphageq100 5000 0 5000 1 1 1
+gnz18coppiaalphageq100
+nz18coppiaetaleq03 5000 0 5000 1 1 1
+gnz18coppiaetaleq03
+nz18coppiaetageq04 5000 0 5000 1 1 1
+gnz18coppiaetageq04
+
+nz18fsmall5eta6 5000 0 5000 18 0 180
+gnz18fsmall5eta6_l1
+gnz18fsmall5eta6_l2
+gnz18fsmall5eta6_l3
+gnz18fsmall5eta6_l4
+gnz18fsmall5eta6_l5
+gnz18fsmall5eta6_l6
+gnz18fsmall5eta6_l7
+gnz18fsmall5eta6_l8
+gnz18fsmall5eta6_l9
+gnz18fsmall5eta6_l10
+gnz18fsmall5eta6_l11
+gnz18fsmall5eta6_l12
+gnz18fsmall5eta6_l13
+gnz18fsmall5eta6_l14
+gnz18fsmall5eta6_l15
+gnz18fsmall5eta6_l16
+gnz18fsmall5eta6_l17
+gnz18fsmall5eta6_l18
+gnz18fsmall5eta6_l19
+gnz18fsmall5eta6_l20
+gnz18fsmall5eta6_l21
+gnz18fsmall5eta6_l22
+gnz18fsmall5eta6_l23
+gnz18fsmall5eta6_l24
+gnz18fsmall5eta6_l25
+nz18fsmall6eta6 5000 0 5000 18 0 180
+gnz18fsmall6eta6_l1
+gnz18fsmall6eta6_l2
+gnz18fsmall6eta6_l3
+gnz18fsmall6eta6_l4
+gnz18fsmall6eta6_l5
+gnz18fsmall6eta6_l6
+gnz18fsmall6eta6_l7
+gnz18fsmall6eta6_l8
+gnz18fsmall6eta6_l9
+gnz18fsmall6eta6_l10
+gnz18fsmall6eta6_l11
+gnz18fsmall6eta6_l12
+gnz18fsmall6eta6_l13
+gnz18fsmall6eta6_l14
+gnz18fsmall6eta6_l15
+gnz18fsmall6eta6_l16
+gnz18fsmall6eta6_l17
+gnz18fsmall6eta6_l18
+gnz18fsmall6eta6_l19
+gnz18fsmall6eta6_l20
+gnz18fsmall6eta6_l21
+gnz18fsmall6eta6_l22
+gnz18fsmall6eta6_l23
+gnz18fsmall6eta6_l24
+gnz18fsmall6eta6_l25
+nz18fsmall5eta2 5000 0 5000 18 0 180
+gnz18fsmall5eta2_l1
+gnz18fsmall5eta2_l2
+gnz18fsmall5eta2_l3
+gnz18fsmall5eta2_l4
+gnz18fsmall5eta2_l5
+gnz18fsmall5eta2_l6
+gnz18fsmall5eta2_l7
+gnz18fsmall5eta2_l8
+gnz18fsmall5eta2_l9
+gnz18fsmall5eta2_l10
+gnz18fsmall5eta2_l11
+gnz18fsmall5eta2_l12
+gnz18fsmall5eta2_l13
+gnz18fsmall5eta2_l14
+gnz18fsmall5eta2_l15
+gnz18fsmall5eta2_l16
+gnz18fsmall5eta2_l17
+gnz18fsmall5eta2_l18
+gnz18fsmall5eta2_l19
+gnz18fsmall5eta2_l20
+gnz18fsmall5eta2_l21
+gnz18fsmall5eta2_l22
+gnz18fsmall5eta2_l23
+gnz18fsmall5eta2_l24
+gnz18fsmall5eta2_l25
+nz18fsmall6eta2 5000 0 5000 18 0 180
+gnz18fsmall6eta2_l1
+gnz18fsmall6eta2_l2
+gnz18fsmall6eta2_l3
+gnz18fsmall6eta2_l4
+gnz18fsmall6eta2_l5
+gnz18fsmall6eta2_l6
+gnz18fsmall6eta2_l7
+gnz18fsmall6eta2_l8
+gnz18fsmall6eta2_l9
+gnz18fsmall6eta2_l10
+gnz18fsmall6eta2_l11
+gnz18fsmall6eta2_l12
+gnz18fsmall6eta2_l13
+gnz18fsmall6eta2_l14
+gnz18fsmall6eta2_l15
+gnz18fsmall6eta2_l16
+gnz18fsmall6eta2_l17
+gnz18fsmall6eta2_l18
+gnz18fsmall6eta2_l19
+gnz18fsmall6eta2_l20
+gnz18fsmall6eta2_l21
+gnz18fsmall6eta2_l22
+gnz18fsmall6eta2_l23
+gnz18fsmall6eta2_l24
+gnz18fsmall6eta2_l25
+nz18fbig5eta06 5000 0 5000 18 0 180
+gnz18fbig5eta06_l1
+gnz18fbig5eta06_l2
+gnz18fbig5eta06_l3
+gnz18fbig5eta06_l4
+gnz18fbig5eta06_l5
+gnz18fbig5eta06_l6
+gnz18fbig5eta06_l7
+gnz18fbig5eta06_l8
+gnz18fbig5eta06_l9
+gnz18fbig5eta06_l10
+gnz18fbig5eta06_l11
+gnz18fbig5eta06_l12
+gnz18fbig5eta06_l13
+gnz18fbig5eta06_l14
+gnz18fbig5eta06_l15
+gnz18fbig5eta06_l16
+gnz18fbig5eta06_l17
+gnz18fbig5eta06_l18
+gnz18fbig5eta06_l19
+gnz18fbig5eta06_l20
+gnz18fbig5eta06_l21
+gnz18fbig5eta06_l22
+gnz18fbig5eta06_l23
+gnz18fbig5eta06_l24
+gnz18fbig5eta06_l25
+nz18fbig5eta02 5000 0 5000 18 0 180
+gnz18fbig5eta02_l1
+gnz18fbig5eta02_l2
+gnz18fbig5eta02_l3
+gnz18fbig5eta02_l4
+gnz18fbig5eta02_l5
+gnz18fbig5eta02_l6
+gnz18fbig5eta02_l7
+gnz18fbig5eta02_l8
+gnz18fbig5eta02_l9
+gnz18fbig5eta02_l10
+gnz18fbig5eta02_l11
+gnz18fbig5eta02_l12
+gnz18fbig5eta02_l13
+gnz18fbig5eta02_l14
+gnz18fbig5eta02_l15
+gnz18fbig5eta02_l16
+gnz18fbig5eta02_l17
+gnz18fbig5eta02_l18
+gnz18fbig5eta02_l19
+gnz18fbig5eta02_l20
+gnz18fbig5eta02_l21
+gnz18fbig5eta02_l22
+gnz18fbig5eta02_l23
+gnz18fbig5eta02_l24
+gnz18fbig5eta02_l25
+nz18fbig6eta06 5000 0 5000 18 0 180
+gnz18fbig6eta06_l1
+gnz18fbig6eta06_l2
+gnz18fbig6eta06_l3
+gnz18fbig6eta06_l4
+gnz18fbig6eta06_l5
+gnz18fbig6eta06_l6
+gnz18fbig6eta06_l7
+gnz18fbig6eta06_l8
+gnz18fbig6eta06_l9
+gnz18fbig6eta06_l10
+gnz18fbig6eta06_l11
+gnz18fbig6eta06_l12
+gnz18fbig6eta06_l13
+gnz18fbig6eta06_l14
+gnz18fbig6eta06_l15
+gnz18fbig6eta06_l16
+gnz18fbig6eta06_l17
+gnz18fbig6eta06_l18
+gnz18fbig6eta06_l19
+gnz18fbig6eta06_l20
+gnz18fbig6eta06_l21
+gnz18fbig6eta06_l22
+gnz18fbig6eta06_l23
+gnz18fbig6eta06_l24
+gnz18fbig6eta06_l25
+nz18fbig6eta02 5000 0 5000 18 0 180
+gnz18fbig6eta02_l1
+gnz18fbig6eta02_l2
+gnz18fbig6eta02_l3
+gnz18fbig6eta02_l4
+gnz18fbig6eta02_l5
+gnz18fbig6eta02_l6
+gnz18fbig6eta02_l7
+gnz18fbig6eta02_l8
+gnz18fbig6eta02_l9
+gnz18fbig6eta02_l10
+gnz18fbig6eta02_l11
+gnz18fbig6eta02_l12
+gnz18fbig6eta02_l13
+gnz18fbig6eta02_l14
+gnz18fbig6eta02_l15
+gnz18fbig6eta02_l16
+gnz18fbig6eta02_l17
+gnz18fbig6eta02_l18
+gnz18fbig6eta02_l19
+gnz18fbig6eta02_l20
+gnz18fbig6eta02_l21
+gnz18fbig6eta02_l22
+gnz18fbig6eta02_l23
+gnz18fbig6eta02_l24
+gnz18fbig6eta02_l25
+
+vvreliqpztutti 100 0 100 1 1 1
+vvreliqpz3 100 0 100 1 1 1
+vvreliqpz4 100 0 100 1 1 1
+vvreldicztutti 100 0 100 100 0 100
+vvrelzdic3 100 0 100 100 0 100
+vvrelzdic4 100 0 100 100 0 100
+vvrelzdic5 100 0 100 100 0 100
+vvrelzdic6 100 0 100 100 0 100
+vvrelzdic7 100 0 100 100 0 100
+vvrelzdic8 100 0 100 100 0 100
+vvrelzdic9 100 0 100 100 0 100
+vvrelzdic10 100 0 100 100 0 100
+vvrelifisztutti 100 0 100 100 0 100
+vvrelifisz3 100 0 100 100 0 100
+vvrelifisz4 100 0 100 100 0 100
+vvrelifisz5 100 0 100 100 0 100
+vvrelifisz6 100 0 100 100 0 100
+vvrelifisz7 100 0 100 100 0 100
+
+nfistuttitot 5000 0 5000 1 1 1
+gnfistuttitot
+gnfistuttitotsigma
+
+
+nz18sym_sm 5000 0 5000 12 0 180
+gnz18sym_sm_l1
+gnz18sym_sm_l2
+gnz18sym_sm_l3
+gnz18sym_sm_l4
+gnz18sym_sm_l5
+gnz18sym_sm_l6
+gnz18sym_sm_l7
+gnz18sym_sm_l8
+gnz18sym_sm_l9
+gnz18sym_sm_l10
+gnz18sym_sm_l11
+gnz18sym_sm_l12
+gnz18sym_sm_l13
+gnz18sym_sm_l14
+gnz18sym_sm_l15
+gnz18sym_sm_l16
+gnz18sym_sm_l17
+gnz18sym_sm_l18
+gnz18sym_sm_l19
+gnz18sym_sm_l20
+gnz18sym_sm_l21
+gnz18sym_sm_l22
+gnz18sym_sm_l23
+gnz18sym_sm_l24
+gnz18sym_sm_l25
+nz18sym_bg 5000 0 5000 12 0 180
+gnz18sym_bg_l1
+gnz18sym_bg_l2
+gnz18sym_bg_l3
+gnz18sym_bg_l4
+gnz18sym_bg_l5
+gnz18sym_bg_l6
+gnz18sym_bg_l7
+gnz18sym_bg_l8
+gnz18sym_bg_l9
+gnz18sym_bg_l10
+gnz18sym_bg_l11
+gnz18sym_bg_l12
+gnz18sym_bg_l13
+gnz18sym_bg_l14
+gnz18sym_bg_l15
+gnz18sym_bg_l16
+gnz18sym_bg_l17
+gnz18sym_bg_l18
+gnz18sym_bg_l19
+gnz18sym_bg_l20
+gnz18sym_bg_l21
+gnz18sym_bg_l22
+gnz18sym_bg_l23
+gnz18sym_bg_l24
+gnz18sym_bg_l25
+nz18asym_bg1 5000 0 5000 12 0 180
+gnz18asym_bg1_l1
+gnz18asym_bg1_l2
+gnz18asym_bg1_l3
+gnz18asym_bg1_l4
+gnz18asym_bg1_l5
+gnz18asym_bg1_l6
+gnz18asym_bg1_l7
+gnz18asym_bg1_l8
+gnz18asym_bg1_l9
+gnz18asym_bg1_l10
+gnz18asym_bg1_l11
+gnz18asym_bg1_l12
+gnz18asym_bg1_l13
+gnz18asym_bg1_l14
+gnz18asym_bg1_l15
+gnz18asym_bg1_l16
+gnz18asym_bg1_l17
+gnz18asym_bg1_l18
+gnz18asym_bg1_l19
+gnz18asym_bg1_l20
+gnz18asym_bg1_l21
+gnz18asym_bg1_l22
+gnz18asym_bg1_l23
+gnz18asym_bg1_l24
+gnz18asym_bg1_l25
+nz18asym_sm1 5000 0 5000 12 0 180
+gnz18asym_sm1_l1
+gnz18asym_sm1_l2
+gnz18asym_sm1_l3
+gnz18asym_sm1_l4
+gnz18asym_sm1_l5
+gnz18asym_sm1_l6
+gnz18asym_sm1_l7
+gnz18asym_sm1_l8
+gnz18asym_sm1_l9
+gnz18asym_sm1_l10
+gnz18asym_sm1_l11
+gnz18asym_sm1_l12
+gnz18asym_sm1_l13
+gnz18asym_sm1_l14
+gnz18asym_sm1_l15
+gnz18asym_sm1_l16
+gnz18asym_sm1_l17
+gnz18asym_sm1_l18
+gnz18asym_sm1_l19
+gnz18asym_sm1_l20
+gnz18asym_sm1_l21
+gnz18asym_sm1_l22
+gnz18asym_sm1_l23
+gnz18asym_sm1_l24
+gnz18asym_sm1_l25
+nz18asym_bg2 5000 0 5000 12 0 180
+gnz18asym_bg2_l1
+gnz18asym_bg2_l2
+gnz18asym_bg2_l3
+gnz18asym_bg2_l4
+gnz18asym_bg2_l5
+gnz18asym_bg2_l6
+gnz18asym_bg2_l7
+gnz18asym_bg2_l8
+gnz18asym_bg2_l9
+gnz18asym_bg2_l10
+gnz18asym_bg2_l11
+gnz18asym_bg2_l12
+gnz18asym_bg2_l13
+gnz18asym_bg2_l14
+gnz18asym_bg2_l15
+gnz18asym_bg2_l16
+gnz18asym_bg2_l17
+gnz18asym_bg2_l18
+gnz18asym_bg2_l19
+gnz18asym_bg2_l20
+gnz18asym_bg2_l21
+gnz18asym_bg2_l22
+gnz18asym_bg2_l23
+gnz18asym_bg2_l24
+gnz18asym_bg2_l25
+nz18asym_sm2 5000 0 5000 12 0 180
+gnz18asym_sm2_l1
+gnz18asym_sm2_l2
+gnz18asym_sm2_l3
+gnz18asym_sm2_l4
+gnz18asym_sm2_l5
+gnz18asym_sm2_l6
+gnz18asym_sm2_l7
+gnz18asym_sm2_l8
+gnz18asym_sm2_l9
+gnz18asym_sm2_l10
+gnz18asym_sm2_l11
+gnz18asym_sm2_l12
+gnz18asym_sm2_l13
+gnz18asym_sm2_l14
+gnz18asym_sm2_l15
+gnz18asym_sm2_l16
+gnz18asym_sm2_l17
+gnz18asym_sm2_l18
+gnz18asym_sm2_l19
+gnz18asym_sm2_l20
+gnz18asym_sm2_l21
+gnz18asym_sm2_l22
+gnz18asym_sm2_l23
+gnz18asym_sm2_l24
+gnz18asym_sm2_l25
+nz18alan_bg1 5000 0 5000 12 0 180
+gnz18alan_bg1_l1
+gnz18alan_bg1_l2
+gnz18alan_bg1_l3
+gnz18alan_bg1_l4
+gnz18alan_bg1_l5
+gnz18alan_bg1_l6
+gnz18alan_bg1_l7
+gnz18alan_bg1_l8
+gnz18alan_bg1_l9
+gnz18alan_bg1_l10
+gnz18alan_bg1_l11
+gnz18alan_bg1_l12
+gnz18alan_bg1_l13
+gnz18alan_bg1_l14
+gnz18alan_bg1_l15
+gnz18alan_bg1_l16
+gnz18alan_bg1_l17
+gnz18alan_bg1_l18
+gnz18alan_bg1_l19
+gnz18alan_bg1_l20
+gnz18alan_bg1_l21
+gnz18alan_bg1_l22
+gnz18alan_bg1_l23
+gnz18alan_bg1_l24
+gnz18alan_bg1_l25
+nz18alan_sm1 5000 0 5000 12 0 180
+gnz18alan_sm1_l1
+gnz18alan_sm1_l2
+gnz18alan_sm1_l3
+gnz18alan_sm1_l4
+gnz18alan_sm1_l5
+gnz18alan_sm1_l6
+gnz18alan_sm1_l7
+gnz18alan_sm1_l8
+gnz18alan_sm1_l9
+gnz18alan_sm1_l10
+gnz18alan_sm1_l11
+gnz18alan_sm1_l12
+gnz18alan_sm1_l13
+gnz18alan_sm1_l14
+gnz18alan_sm1_l15
+gnz18alan_sm1_l16
+gnz18alan_sm1_l17
+gnz18alan_sm1_l18
+gnz18alan_sm1_l19
+gnz18alan_sm1_l20
+gnz18alan_sm1_l21
+gnz18alan_sm1_l22
+gnz18alan_sm1_l23
+gnz18alan_sm1_l24
+gnz18asym_sm1_l25
+nz18alan_bg2 5000 0 5000 12 0 180
+gnz18alan_bg2_l1
+gnz18alan_bg2_l2
+gnz18alan_bg2_l3
+gnz18alan_bg2_l4
+gnz18alan_bg2_l5
+gnz18alan_bg2_l6
+gnz18alan_bg2_l7
+gnz18alan_bg2_l8
+gnz18alan_bg2_l9
+gnz18alan_bg2_l10
+gnz18alan_bg2_l11
+gnz18alan_bg2_l12
+gnz18alan_bg2_l13
+gnz18alan_bg2_l14
+gnz18alan_bg2_l15
+gnz18alan_bg2_l16
+gnz18alan_bg2_l17
+gnz18alan_bg2_l18
+gnz18alan_bg2_l19
+gnz18alan_bg2_l20
+gnz18alan_bg2_l21
+gnz18alan_bg2_l22
+gnz18alan_bg2_l23
+gnz18alan_bg2_l24
+gnz18alan_bg2_l25
+nz18alan_sm2 5000 0 5000 12 0 180
+gnz18alan_sm2_l1
+gnz18alan_sm2_l2
+gnz18alan_sm2_l3
+gnz18alan_sm2_l4
+gnz18alan_sm2_l5
+gnz18alan_sm2_l6
+gnz18alan_sm2_l7
+gnz18alan_sm2_l8
+gnz18alan_sm2_l9
+gnz18alan_sm2_l10
+gnz18alan_sm2_l11
+gnz18alan_sm2_l12
+gnz18alan_sm2_l13
+gnz18alan_sm2_l14
+gnz18alan_sm2_l15
+gnz18alan_sm2_l16
+gnz18alan_sm2_l17
+gnz18alan_sm2_l18
+gnz18alan_sm2_l19
+gnz18alan_sm2_l20
+gnz18alan_sm2_l21
+gnz18alan_sm2_l22
+gnz18alan_sm2_l23
+gnz18alan_sm2_l24
+gnz18asym_sm2_l25
+
+nz18alan_cp 5000 0 5000 1 1 1
+gnz18alan_cp
+nz18asym_cp 5000 0 5000 1 1 1
+gnz18asym_cp
+nz18sym_cp 5000 0 5000 1 1 1
+gnz18sym_cp
+
+nz18cp_z5 5000 0 5000 1 1 1
+gnz18cp_z5
+nz18cp_z6 5000 0 5000 1 1 1
+gnz18cp_z6
+nz18cp_z7 5000 0 5000 1 1 1
+gnz18cp_z7
+nz18cp_z8 5000 0 5000 1 1 1
+gnz18cp_z8
+nz18cp_z9 5000 0 5000 1 1 1
+gnz18cp_z9
+nz18cp_z10 5000 0 5000 1 1 1
+gnz18cp_z10
+nz18cp_z11 5000 0 5000 1 1 1
+gnz18cp_z11
+nz18cp_z12 5000 0 5000 1 1 1
+gnz18cp_z12
+nz18cp_z13 5000 0 5000 1 1 1
+gnz18cp_z13
+nz18cp_z14 5000 0 5000 1 1 1
+gnz18cp_z14
+nz18cp_z15 5000 0 5000 1 1 1
+gnz18cp_z15
+
+
+
+

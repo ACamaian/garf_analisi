@@ -1,0 +1,342 @@
+%merlin.mbs apsrev4-1.bst 2010-07-25 4.21a (PWD, AO, DPC) hacked
+%Control: key (0)
+%Control: author (8) initials jnrlst
+%Control: editor formatted (1) identically to author
+%Control: production of article title (-1) disabled
+%Control: page (0) single
+%Control: year (1) truncated
+%Control: production of eprint (0) enabled
+\begin{thebibliography}{11}%
+\makeatletter
+\providecommand \@ifxundefined [1]{%
+ \@ifx{#1\undefined}
+}%
+\providecommand \@ifnum [1]{%
+ \ifnum #1\expandafter \@firstoftwo
+ \else \expandafter \@secondoftwo
+ \fi
+}%
+\providecommand \@ifx [1]{%
+ \ifx #1\expandafter \@firstoftwo
+ \else \expandafter \@secondoftwo
+ \fi
+}%
+\providecommand \natexlab [1]{#1}%
+\providecommand \enquote  [1]{``#1''}%
+\providecommand \bibnamefont  [1]{#1}%
+\providecommand \bibfnamefont [1]{#1}%
+\providecommand \citenamefont [1]{#1}%
+\providecommand \href@noop [0]{\@secondoftwo}%
+\providecommand \href [0]{\begingroup \@sanitize@url \@href}%
+\providecommand \@href[1]{\@@startlink{#1}\@@href}%
+\providecommand \@@href[1]{\endgroup#1\@@endlink}%
+\providecommand \@sanitize@url [0]{\catcode `\\12\catcode `\$12\catcode
+  `\&12\catcode `\#12\catcode `\^12\catcode `\_12\catcode `\%12\relax}%
+\providecommand \@@startlink[1]{}%
+\providecommand \@@endlink[0]{}%
+\providecommand \url  [0]{\begingroup\@sanitize@url \@url }%
+\providecommand \@url [1]{\endgroup\@href {#1}{\urlprefix }}%
+\providecommand \urlprefix  [0]{URL }%
+\providecommand \Eprint [0]{\href }%
+\providecommand \doibase [0]{http://dx.doi.org/}%
+\providecommand \selectlanguage [0]{\@gobble}%
+\providecommand \bibinfo  [0]{\@secondoftwo}%
+\providecommand \bibfield  [0]{\@secondoftwo}%
+\providecommand \translation [1]{[#1]}%
+\providecommand \BibitemOpen [0]{}%
+\providecommand \bibitemStop [0]{}%
+\providecommand \bibitemNoStop [0]{.\EOS\space}%
+\providecommand \EOS [0]{\spacefactor3000\relax}%
+\providecommand \BibitemShut  [1]{\csname bibitem#1\endcsname}%
+\let\auto@bib@innerbib\@empty
+%</preamble>
+\bibitem [{\citenamefont {Piantelli}\ \emph {et~al.}(2021)\citenamefont
+  {Piantelli}, \citenamefont {Casini}, \citenamefont {Ono}, \citenamefont
+  {Poggi}, \citenamefont {Pastore}, \citenamefont {Barlini}, \citenamefont
+  {Bini}, \citenamefont {Boiano}, \citenamefont {Bonnet}, \citenamefont
+  {Borderie} \emph {et~al.}}]{Piantelli2021}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
+  {Piantelli}}, \bibinfo {author} {\bibfnamefont {G.}~\bibnamefont {Casini}},
+  \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Ono}}, \bibinfo {author}
+  {\bibfnamefont {G.}~\bibnamefont {Poggi}}, \bibinfo {author} {\bibfnamefont
+  {G.}~\bibnamefont {Pastore}}, \bibinfo {author} {\bibfnamefont
+  {S.}~\bibnamefont {Barlini}}, \bibinfo {author} {\bibfnamefont
+  {M.}~\bibnamefont {Bini}}, \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
+  {Boiano}}, \bibinfo {author} {\bibfnamefont {E.}~\bibnamefont {Bonnet}},
+  \bibinfo {author} {\bibfnamefont {B.}~\bibnamefont {Borderie}},  \emph
+  {et~al.},\ }\href {\doibase 10.1103/PhysRevC.103.014603} {\bibfield
+  {journal} {\bibinfo  {journal} {Phys. Rev. C}\ }\textbf {\bibinfo {volume}
+  {103}},\ \bibinfo {pages} {014603} (\bibinfo {year} {2021})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Baran}\ \emph {et~al.}(2005)\citenamefont {Baran},
+  \citenamefont {Colonna}, \citenamefont {DiToro}, \citenamefont
+  {Zielinska-Pfab\'e},\ and\ \citenamefont {Wolter}}]{Baranisospin}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {V.}~\bibnamefont
+  {Baran}}, \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Colonna}},
+  \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {DiToro}}, \bibinfo
+  {author} {\bibfnamefont {M.}~\bibnamefont {Zielinska-Pfab\'e}}, \ and\
+  \bibinfo {author} {\bibfnamefont {H.~H.}\ \bibnamefont {Wolter}},\ }\href
+  {\doibase 10.1103/PhysRevC.72.064620} {\bibfield  {journal} {\bibinfo
+  {journal} {Phys. Rev. C}\ }\textbf {\bibinfo {volume} {72}},\ \bibinfo
+  {pages} {064620} (\bibinfo {year} {2005})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {{Bougault, R.}}\ \emph {et~al.}(2014)\citenamefont
+  {{Bougault, R.}}, \citenamefont {{Poggi, G.}}, \citenamefont {{Barlini, S.}},
+  \citenamefont {{Borderie, B.}}, \citenamefont {{Casini, G.}}, \citenamefont
+  {{Chbihi, A.}}, \citenamefont {{Le Neindre, N.}}, \citenamefont {{Parlog,
+  M.}}, \citenamefont {{Pasquali, G.}}, \citenamefont {{Piantelli, S.}} \emph
+  {et~al.}}]{BougaultFAZIA}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibnamefont {{Bougault, R.}}},
+  \bibinfo {author} {\bibnamefont {{Poggi, G.}}}, \bibinfo {author}
+  {\bibnamefont {{Barlini, S.}}}, \bibinfo {author} {\bibnamefont {{Borderie,
+  B.}}}, \bibinfo {author} {\bibnamefont {{Casini, G.}}}, \bibinfo {author}
+  {\bibnamefont {{Chbihi, A.}}}, \bibinfo {author} {\bibnamefont {{Le Neindre,
+  N.}}}, \bibinfo {author} {\bibnamefont {{Parlog, M.}}}, \bibinfo {author}
+  {\bibnamefont {{Pasquali, G.}}}, \bibinfo {author} {\bibnamefont {{Piantelli,
+  S.}}},  \emph {et~al.},\ }\href {\doibase 10.1140/epja/i2014-14047-4}
+  {\bibfield  {journal} {\bibinfo  {journal} {Eur. Phys. J. A}\ }\textbf
+  {\bibinfo {volume} {50}},\ \bibinfo {pages} {47} (\bibinfo {year}
+  {2014})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Valdr\'e}\ \emph {et~al.}(2018)\citenamefont
+  {Valdr\'e} \emph {et~al.}}]{ValdreFazia}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
+  {Valdr\'e}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
+  {journal} {submitted to Nucl. Instr. Meth. A}\ } (\bibinfo {year}
+  {2018})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Pastore}\ \emph {et~al.}(2017)\citenamefont
+  {Pastore}, \citenamefont {Gruyer}, \citenamefont {Ottanelli}, \citenamefont
+  {Neindre}, \citenamefont {Pasquali}, \citenamefont {Alba}, \citenamefont
+  {Barlini}, \citenamefont {Bini}, \citenamefont {Bonnet}, \citenamefont
+  {Borderie} \emph {et~al.}}]{PastoreNIM}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {G.}~\bibnamefont
+  {Pastore}}, \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont {Gruyer}},
+  \bibinfo {author} {\bibfnamefont {P.}~\bibnamefont {Ottanelli}}, \bibinfo
+  {author} {\bibfnamefont {N.~L.}\ \bibnamefont {Neindre}}, \bibinfo {author}
+  {\bibfnamefont {G.}~\bibnamefont {Pasquali}}, \bibinfo {author}
+  {\bibfnamefont {R.}~\bibnamefont {Alba}}, \bibinfo {author} {\bibfnamefont
+  {S.}~\bibnamefont {Barlini}}, \bibinfo {author} {\bibfnamefont
+  {M.}~\bibnamefont {Bini}}, \bibinfo {author} {\bibfnamefont {E.}~\bibnamefont
+  {Bonnet}}, \bibinfo {author} {\bibfnamefont {B.}~\bibnamefont {Borderie}},
+  \emph {et~al.},\ }\href {\doibase https://doi.org/10.1016/j.nima.2017.01.048}
+  {\bibfield  {journal} {\bibinfo  {journal} {Nuclear Instruments and Methods
+  in Physics Research Section A: Accelerators, Spectrometers, Detectors and
+  Associated Equipment}\ }\textbf {\bibinfo {volume} {860}},\ \bibinfo {pages}
+  {42 } (\bibinfo {year} {2017})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {{Pasquali, G.}}\ \emph {et~al.}(2014)\citenamefont
+  {{Pasquali, G.}}, \citenamefont {{Pastore, G.}}, \citenamefont {{Le Neindre,
+  N.}}, \citenamefont {{Ademard, G.}}, \citenamefont {{Barlini, S.}},
+  \citenamefont {{Bini, M.}}, \citenamefont {{Bonnet, E.}}, \citenamefont
+  {{Borderie, B.}}, \citenamefont {{Bougault, R.}}, \citenamefont {{Casini,
+  G.}} \emph {et~al.}}]{Pasquali2014}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibnamefont {{Pasquali, G.}}},
+  \bibinfo {author} {\bibnamefont {{Pastore, G.}}}, \bibinfo {author}
+  {\bibnamefont {{Le Neindre, N.}}}, \bibinfo {author} {\bibnamefont {{Ademard,
+  G.}}}, \bibinfo {author} {\bibnamefont {{Barlini, S.}}}, \bibinfo {author}
+  {\bibnamefont {{Bini, M.}}}, \bibinfo {author} {\bibnamefont {{Bonnet, E.}}},
+  \bibinfo {author} {\bibnamefont {{Borderie, B.}}}, \bibinfo {author}
+  {\bibnamefont {{Bougault, R.}}}, \bibinfo {author} {\bibnamefont {{Casini,
+  G.}}},  \emph {et~al.},\ }\href {\doibase 10.1140/epja/i2014-14086-9}
+  {\bibfield  {journal} {\bibinfo  {journal} {Eur. Phys. J. A}\ }\textbf
+  {\bibinfo {volume} {50}},\ \bibinfo {pages} {86} (\bibinfo {year}
+  {2014})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Carboni}\ \emph {et~al.}(2012)\citenamefont
+  {Carboni}, \citenamefont {Barlini}, \citenamefont {Bardelli}, \citenamefont
+  {Neindre}, \citenamefont {Bini}, \citenamefont {Borderie}, \citenamefont
+  {Bougault}, \citenamefont {Casini}, \citenamefont {Edelbruck}, \citenamefont
+  {Olmi} \emph {et~al.}}]{Carboni}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
+  {Carboni}}, \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Barlini}},
+  \bibinfo {author} {\bibfnamefont {L.}~\bibnamefont {Bardelli}}, \bibinfo
+  {author} {\bibfnamefont {N.~L.}\ \bibnamefont {Neindre}}, \bibinfo {author}
+  {\bibfnamefont {M.}~\bibnamefont {Bini}}, \bibinfo {author} {\bibfnamefont
+  {B.}~\bibnamefont {Borderie}}, \bibinfo {author} {\bibfnamefont
+  {R.}~\bibnamefont {Bougault}}, \bibinfo {author} {\bibfnamefont
+  {G.}~\bibnamefont {Casini}}, \bibinfo {author} {\bibfnamefont
+  {P.}~\bibnamefont {Edelbruck}}, \bibinfo {author} {\bibfnamefont
+  {A.}~\bibnamefont {Olmi}},  \emph {et~al.},\ }\href {\doibase
+  https://doi.org/10.1016/j.nima.2011.10.061} {\bibfield  {journal} {\bibinfo
+  {journal} {Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment}\ }\textbf
+  {\bibinfo {volume} {664}},\ \bibinfo {pages} {251 } (\bibinfo {year}
+  {2012})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Camaiani}\ \emph {et~al.}(2021)\citenamefont
+  {Camaiani}, \citenamefont {Casini}, \citenamefont {Piantelli}, \citenamefont
+  {Ono}, \citenamefont {Bonnet}, \citenamefont {Alba}, \citenamefont {Barlini},
+  \citenamefont {Borderie}, \citenamefont {Bougault}, \citenamefont {Ciampi}
+  \emph {et~al.}}]{Camaiani2021}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
+  {Camaiani}}, \bibinfo {author} {\bibfnamefont {G.}~\bibnamefont {Casini}},
+  \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Piantelli}}, \bibinfo
+  {author} {\bibfnamefont {A.}~\bibnamefont {Ono}}, \bibinfo {author}
+  {\bibfnamefont {E.}~\bibnamefont {Bonnet}}, \bibinfo {author} {\bibfnamefont
+  {R.}~\bibnamefont {Alba}}, \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
+  {Barlini}}, \bibinfo {author} {\bibfnamefont {B.}~\bibnamefont {Borderie}},
+  \bibinfo {author} {\bibfnamefont {R.}~\bibnamefont {Bougault}}, \bibinfo
+  {author} {\bibnamefont {Ciampi}},  \emph {et~al.},\ }\href {\doibase
+  10.1103/PhysRevC.103.014605} {\bibfield  {journal} {\bibinfo  {journal}
+  {Phys. Rev. C}\ }\textbf {\bibinfo {volume} {103}},\ \bibinfo {pages}
+  {014605} (\bibinfo {year} {2021})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Piantelli}\ \emph {et~al.}()\citenamefont {Piantelli}
+  \emph {et~al.}}]{FAZIAPRE}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
+  {Piantelli}} \emph {et~al.},\ }\href@noop {} {\bibinfo  {journal} {submitted
+  to Phys. Rev. C}\ }\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Ciampi}\ \emph {et~al.}(2022)\citenamefont {Ciampi},
+  \citenamefont {Piantelli}, \citenamefont {Casini}, \citenamefont {Pasquali},
+  \citenamefont {Quicray}, \citenamefont {Baldesi}, \citenamefont {Barlini},
+  \citenamefont {Borderie}, \citenamefont {Bougault}, \citenamefont {Camaiani},
+  \citenamefont {Chbihi}, \citenamefont {Dell'Aquila}, \citenamefont
+  {Cicerchia}, \citenamefont {Due\~nas}, \citenamefont {Fable}, \citenamefont
+  {Fabris}, \citenamefont {Frankland}, \citenamefont {Frosin}, \citenamefont
+  {G\'enard}, \citenamefont {Gramegna}, \citenamefont {Gruyer}, \citenamefont
+  {Henri}, \citenamefont {Hong}, \citenamefont {Kim}, \citenamefont {Kordyasz},
+  \citenamefont {Kozik}, \citenamefont {Kweon}, \citenamefont {Lemari\'e},
+  \citenamefont {Le~Neindre}, \citenamefont {Lombardo}, \citenamefont {Lopez},
+  \citenamefont {Marchi}, \citenamefont {Nam}, \citenamefont {Ordine},
+  \citenamefont {Ottanelli}, \citenamefont {Park}, \citenamefont {Park},
+  \citenamefont {P\^arlog}, \citenamefont {Poggi}, \citenamefont
+  {Rebillard-Souli\'e}, \citenamefont {Stefanini}, \citenamefont {Upadhyaya},
+  \citenamefont {Valdr\'e}, \citenamefont {Verde}, \citenamefont {Vient},\ and\
+  \citenamefont {Vigilante}}]{Ciampi2022}%
+  \BibitemOpen
+\bibfield  {journal} {  }\bibfield  {author} {\bibinfo {author} {\bibfnamefont
+  {C.}~\bibnamefont {Ciampi}}, \bibinfo {author} {\bibfnamefont
+  {S.}~\bibnamefont {Piantelli}}, \bibinfo {author} {\bibfnamefont
+  {G.}~\bibnamefont {Casini}}, \bibinfo {author} {\bibfnamefont
+  {G.}~\bibnamefont {Pasquali}}, \bibinfo {author} {\bibfnamefont
+  {J.}~\bibnamefont {Quicray}}, \bibinfo {author} {\bibfnamefont
+  {L.}~\bibnamefont {Baldesi}}, \bibinfo {author} {\bibfnamefont
+  {S.}~\bibnamefont {Barlini}}, \bibinfo {author} {\bibfnamefont
+  {B.}~\bibnamefont {Borderie}}, \bibinfo {author} {\bibfnamefont
+  {R.}~\bibnamefont {Bougault}}, \bibinfo {author} {\bibfnamefont
+  {A.}~\bibnamefont {Camaiani}}, \bibinfo {author} {\bibfnamefont
+  {A.}~\bibnamefont {Chbihi}}, \bibinfo {author} {\bibfnamefont
+  {D.}~\bibnamefont {Dell'Aquila}}, \bibinfo {author} {\bibfnamefont
+  {M.}~\bibnamefont {Cicerchia}}, \bibinfo {author} {\bibfnamefont {J.~A.}\
+  \bibnamefont {Due\~nas}}, \bibinfo {author} {\bibfnamefont {Q.}~\bibnamefont
+  {Fable}}, \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont {Fabris}},
+  \bibinfo {author} {\bibfnamefont {J.~D.}\ \bibnamefont {Frankland}}, \bibinfo
+  {author} {\bibfnamefont {C.}~\bibnamefont {Frosin}}, \bibinfo {author}
+  {\bibfnamefont {T.}~\bibnamefont {G\'enard}}, \bibinfo {author}
+  {\bibfnamefont {F.}~\bibnamefont {Gramegna}}, \bibinfo {author}
+  {\bibfnamefont {D.}~\bibnamefont {Gruyer}}, \bibinfo {author} {\bibfnamefont
+  {M.}~\bibnamefont {Henri}}, \bibinfo {author} {\bibfnamefont
+  {B.}~\bibnamefont {Hong}}, \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
+  {Kim}}, \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Kordyasz}},
+  \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont {Kozik}}, \bibinfo
+  {author} {\bibfnamefont {M.~J.}\ \bibnamefont {Kweon}}, \bibinfo {author}
+  {\bibfnamefont {J.}~\bibnamefont {Lemari\'e}}, \bibinfo {author}
+  {\bibfnamefont {N.}~\bibnamefont {Le~Neindre}}, \bibinfo {author}
+  {\bibfnamefont {I.}~\bibnamefont {Lombardo}}, \bibinfo {author}
+  {\bibfnamefont {O.}~\bibnamefont {Lopez}}, \bibinfo {author} {\bibfnamefont
+  {T.}~\bibnamefont {Marchi}}, \bibinfo {author} {\bibfnamefont {S.~H.}\
+  \bibnamefont {Nam}}, \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
+  {Ordine}}, \bibinfo {author} {\bibfnamefont {P.}~\bibnamefont {Ottanelli}},
+  \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont {Park}}, \bibinfo {author}
+  {\bibfnamefont {J.~H.}\ \bibnamefont {Park}}, \bibinfo {author}
+  {\bibfnamefont {M.}~\bibnamefont {P\^arlog}}, \bibinfo {author}
+  {\bibfnamefont {G.}~\bibnamefont {Poggi}}, \bibinfo {author} {\bibfnamefont
+  {A.}~\bibnamefont {Rebillard-Souli\'e}}, \bibinfo {author} {\bibfnamefont
+  {A.~A.}\ \bibnamefont {Stefanini}}, \bibinfo {author} {\bibfnamefont
+  {S.}~\bibnamefont {Upadhyaya}}, \bibinfo {author} {\bibfnamefont
+  {S.}~\bibnamefont {Valdr\'e}}, \bibinfo {author} {\bibfnamefont
+  {G.}~\bibnamefont {Verde}}, \bibinfo {author} {\bibfnamefont
+  {E.}~\bibnamefont {Vient}}, \ and\ \bibinfo {author} {\bibfnamefont
+  {M.}~\bibnamefont {Vigilante}} (\bibinfo {collaboration} {INDRA-FAZIA
+  Collaboration}),\ }\href {\doibase 10.1103/PhysRevC.106.024603} {\bibfield
+  {journal} {\bibinfo  {journal} {Phys. Rev. C}\ }\textbf {\bibinfo {volume}
+  {106}},\ \bibinfo {pages} {024603} (\bibinfo {year} {2022})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Pouthas}\ \emph {et~al.}(1995)\citenamefont
+  {Pouthas}, \citenamefont {Borderie}, \citenamefont {Dayras}, \citenamefont
+  {Plagnol}, \citenamefont {Rivet}, \citenamefont {Saint-Laurent},
+  \citenamefont {Steckmeyer}, \citenamefont {Auger}, \citenamefont {Bacri},
+  \citenamefont {Barbey}, \citenamefont {Barbier}, \citenamefont {Benkirane},
+  \citenamefont {Benlliure}, \citenamefont {Berthier}, \citenamefont
+  {Bougamont}, \citenamefont {Bourgault}, \citenamefont {Box}, \citenamefont
+  {Bzyl}, \citenamefont {Cahan}, \citenamefont {Cassagnou}, \citenamefont
+  {Charlet}, \citenamefont {Charvet}, \citenamefont {Chbihi}, \citenamefont
+  {Clerc}, \citenamefont {Copinet}, \citenamefont {Cussol}, \citenamefont
+  {Engrand}, \citenamefont {Gautier}, \citenamefont {Huguet}, \citenamefont
+  {Jouniaux}, \citenamefont {Laville}, \citenamefont {Botlan}, \citenamefont
+  {Leconte}, \citenamefont {Legrain}, \citenamefont {Lelong}, \citenamefont
+  {Guay}, \citenamefont {Martina}, \citenamefont {Mazur}, \citenamefont
+  {Mosrin}, \citenamefont {Olivier}, \citenamefont {Passerieux}, \citenamefont
+  {Pierre}, \citenamefont {Piquet}, \citenamefont {Plaige}, \citenamefont
+  {Pollacco}, \citenamefont {Raine}, \citenamefont {Richard}, \citenamefont
+  {Ropert}, \citenamefont {Spitaels}, \citenamefont {Stab}, \citenamefont
+  {Sznajderman}, \citenamefont {Tassan-got}, \citenamefont {Tillier},
+  \citenamefont {Tripon}, \citenamefont {Vallerand}, \citenamefont {Volant},
+  \citenamefont {Volkov}, \citenamefont {Wieleczko},\ and\ \citenamefont
+  {Wittwer}}]{INDRA1999}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Pouthas}}, \bibinfo {author} {\bibfnamefont {B.}~\bibnamefont {Borderie}},
+  \bibinfo {author} {\bibfnamefont {R.}~\bibnamefont {Dayras}}, \bibinfo
+  {author} {\bibfnamefont {E.}~\bibnamefont {Plagnol}}, \bibinfo {author}
+  {\bibfnamefont {M.}~\bibnamefont {Rivet}}, \bibinfo {author} {\bibfnamefont
+  {F.}~\bibnamefont {Saint-Laurent}}, \bibinfo {author} {\bibfnamefont
+  {J.}~\bibnamefont {Steckmeyer}}, \bibinfo {author} {\bibfnamefont
+  {G.}~\bibnamefont {Auger}}, \bibinfo {author} {\bibfnamefont
+  {C.}~\bibnamefont {Bacri}}, \bibinfo {author} {\bibfnamefont
+  {S.}~\bibnamefont {Barbey}}, \bibinfo {author} {\bibfnamefont
+  {A.}~\bibnamefont {Barbier}}, \bibinfo {author} {\bibfnamefont
+  {A.}~\bibnamefont {Benkirane}}, \bibinfo {author} {\bibfnamefont
+  {J.}~\bibnamefont {Benlliure}}, \bibinfo {author} {\bibfnamefont
+  {B.}~\bibnamefont {Berthier}}, \bibinfo {author} {\bibfnamefont
+  {E.}~\bibnamefont {Bougamont}}, \bibinfo {author} {\bibfnamefont
+  {P.}~\bibnamefont {Bourgault}}, \bibinfo {author} {\bibfnamefont
+  {P.}~\bibnamefont {Box}}, \bibinfo {author} {\bibfnamefont {R.}~\bibnamefont
+  {Bzyl}}, \bibinfo {author} {\bibfnamefont {B.}~\bibnamefont {Cahan}},
+  \bibinfo {author} {\bibfnamefont {Y.}~\bibnamefont {Cassagnou}}, \bibinfo
+  {author} {\bibfnamefont {D.}~\bibnamefont {Charlet}}, \bibinfo {author}
+  {\bibfnamefont {J.}~\bibnamefont {Charvet}}, \bibinfo {author} {\bibfnamefont
+  {A.}~\bibnamefont {Chbihi}}, \bibinfo {author} {\bibfnamefont
+  {T.}~\bibnamefont {Clerc}}, \bibinfo {author} {\bibfnamefont
+  {N.}~\bibnamefont {Copinet}}, \bibinfo {author} {\bibfnamefont
+  {D.}~\bibnamefont {Cussol}}, \bibinfo {author} {\bibfnamefont
+  {M.}~\bibnamefont {Engrand}}, \bibinfo {author} {\bibfnamefont
+  {J.}~\bibnamefont {Gautier}}, \bibinfo {author} {\bibfnamefont
+  {Y.}~\bibnamefont {Huguet}}, \bibinfo {author} {\bibfnamefont
+  {O.}~\bibnamefont {Jouniaux}}, \bibinfo {author} {\bibfnamefont
+  {J.}~\bibnamefont {Laville}}, \bibinfo {author} {\bibfnamefont {P.~L.}\
+  \bibnamefont {Botlan}}, \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
+  {Leconte}}, \bibinfo {author} {\bibfnamefont {R.}~\bibnamefont {Legrain}},
+  \bibinfo {author} {\bibfnamefont {P.}~\bibnamefont {Lelong}}, \bibinfo
+  {author} {\bibfnamefont {M.~L.}\ \bibnamefont {Guay}}, \bibinfo {author}
+  {\bibfnamefont {L.}~\bibnamefont {Martina}}, \bibinfo {author} {\bibfnamefont
+  {C.}~\bibnamefont {Mazur}}, \bibinfo {author} {\bibfnamefont
+  {P.}~\bibnamefont {Mosrin}}, \bibinfo {author} {\bibfnamefont
+  {L.}~\bibnamefont {Olivier}}, \bibinfo {author} {\bibfnamefont
+  {J.}~\bibnamefont {Passerieux}}, \bibinfo {author} {\bibfnamefont
+  {S.}~\bibnamefont {Pierre}}, \bibinfo {author} {\bibfnamefont
+  {B.}~\bibnamefont {Piquet}}, \bibinfo {author} {\bibfnamefont
+  {E.}~\bibnamefont {Plaige}}, \bibinfo {author} {\bibfnamefont
+  {E.}~\bibnamefont {Pollacco}}, \bibinfo {author} {\bibfnamefont
+  {B.}~\bibnamefont {Raine}}, \bibinfo {author} {\bibfnamefont
+  {A.}~\bibnamefont {Richard}}, \bibinfo {author} {\bibfnamefont
+  {J.}~\bibnamefont {Ropert}}, \bibinfo {author} {\bibfnamefont
+  {C.}~\bibnamefont {Spitaels}}, \bibinfo {author} {\bibfnamefont
+  {L.}~\bibnamefont {Stab}}, \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont
+  {Sznajderman}}, \bibinfo {author} {\bibfnamefont {L.}~\bibnamefont
+  {Tassan-got}}, \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont {Tillier}},
+  \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Tripon}}, \bibinfo
+  {author} {\bibfnamefont {P.}~\bibnamefont {Vallerand}}, \bibinfo {author}
+  {\bibfnamefont {C.}~\bibnamefont {Volant}}, \bibinfo {author} {\bibfnamefont
+  {P.}~\bibnamefont {Volkov}}, \bibinfo {author} {\bibfnamefont
+  {J.}~\bibnamefont {Wieleczko}}, \ and\ \bibinfo {author} {\bibfnamefont
+  {G.}~\bibnamefont {Wittwer}},\ }\href {\doibase
+  https://doi.org/10.1016/0168-9002(94)01543-0} {\bibfield  {journal} {\bibinfo
+   {journal} {Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment}\ }\textbf
+  {\bibinfo {volume} {357}},\ \bibinfo {pages} {418 } (\bibinfo {year}
+  {1995})}\BibitemShut {NoStop}%
+\end{thebibliography}%

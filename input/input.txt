@@ -1,0 +1,38 @@
+# dati reazione (Zp Ap Zt At E/A spess_target_microg/cm2 trigger plastichino)
+
+#Csym
+REAC 16 32 20 40 17.7 500 32
+
+#delight
+#REAC 7 14 5 10 5.76 148 32
+
+
+HISTO lista_histo.txt
+
+
+# tipo nome_file geo/4pi n.eventi evento_iniziale
+#MC testCa40gemini.root 4pi 5 0
+#MC testCa40gemini.root 4pi -1
+#MC testCa40gemini.root geo -1
+#MC_SIMON_AMD simon_35Ca48Ca48_stiff_0.85_t500_uscitaAMD.txt.root geo -1
+#MC_HFL_AMD S32C12_25_stiff_t500_uscitaAMD.txt.root_hfl_orig.root geo -1
+MC_BAIOCCO_PAR provaSi28_90.5_hfl_CN.root geo -1
+#COMD Ca40_Ca40_t5000_comd.out_tstop500.root geo -1
+#MC_HFL_HIPSE s32c12_25b0_8av.dat.root_hfl.root geo -1
+
+
+# tipo nome_file n.eventi evento_iniziale
+
+#EXPCOMP testCa40exp.root -1
+
+
+#USCITA provae.root
+USCITA provamcgeo.root
+#USCITA provamc4pi.root
+GEO geometria.txt
+
+
+NTUPLA no
+#NTUPLA yes
+
+

@@ -1,0 +1,131 @@
+RIV GARFIELD_FORWARD cesio the0 themin themax
+5 150.0 75.25 68.0 82.5 
+6 172.0 60.0  53.0 66.0 
+7 194.0 47.0 41.0 52.0 
+8 216.0 34.85 29.5 40.0 
+RIV GARFIELD_BACKWARD cesio the0 themin themax
+1 216.0 145.15 139.9 150.4
+2 194.0 133.0  127.5 138.5
+3 172.0 120.0  113.5 126.5
+4 150.0 104.75 97.5 112.0
+RIV RCO_STRIP settore strip dist themin themax spessore (8 strip per ogni settore)
+#1 1 279 15.610 16.950 301
+1 1 279 15.610 16.615 301
+1 2 279 14.244 15.581 301
+1 3 279 12.861 14.215 301
+1 4 279 11.463 12.832 301
+1 5 279 10.051 11.433 301
+1 6 279 8.626 10.021  301
+1 7 279 7.191 8.596   301
+1 8 279 5.362 7.160   301
+#2 1 279 15.610 16.950 305
+2 1 279 15.610 16.615 305
+2 2 279 14.244 15.581 305
+2 3 279 12.861 14.215 305
+2 4 279 11.463 12.832 305
+2 5 279 10.051 11.433 305
+2 6 279 8.626 10.021  305
+2 7 279 7.191 8.596   305
+2 8 279 5.362 7.160   305
+#3 1 279 15.610 16.950 302
+3 1 279 15.610 16.615 302
+3 2 279 14.244 15.581 302
+3 3 279 12.861 14.215 302
+3 4 279 11.463 12.832 302
+3 5 279 10.051 11.433 302
+3 6 279 8.626 10.021  302
+3 7 279 7.191 8.596   302
+3 8 279 5.362 7.160   302
+#4 1 279 15.610 16.950 300
+4 1 279 15.610 16.615 300
+4 2 279 14.244 15.581 300
+4 3 279 12.861 14.215 300
+4 4 279 11.463 12.832 300
+4 5 279 10.051 11.433 300
+4 6 279 8.626 10.021  300
+4 7 279 7.191 8.596   300
+4 8 279 5.362 7.160   300
+#5 1 279 15.610 16.950 301
+5 1 279 15.610 16.615 301
+5 2 279 14.244 15.581 301
+5 3 279 12.861 14.215 301
+5 4 279 11.463 12.832 301
+5 5 279 10.051 11.433 301
+5 6 279 8.626 10.021  301
+5 7 279 7.191 8.596   301
+5 8 279 5.362 7.160   301
+#6 1 279 15.610 16.950 300
+6 1 279 15.610 16.615 300
+6 2 279 14.244 15.581 300
+6 3 279 12.861 14.215 300
+6 4 279 11.463 12.832 300
+6 5 279 10.051 11.433 300
+6 6 279 8.626 10.021  300
+6 7 279 7.191 8.596   300
+6 8 279 5.362 7.160   300
+#7 1 279 15.610 16.950 300
+7 1 279 15.610 16.615 300
+7 2 279 14.244 15.581 300
+7 3 279 12.861 14.215 300
+7 4 279 11.463 12.832 300
+7 5 279 10.051 11.433 300
+7 6 279 8.626 10.021  300
+7 7 279 7.191 8.596   300
+7 8 279 5.362 7.160   300
+#8 1 279 15.610 16.950 299
+8 1 279 15.610 16.615 299
+8 2 279 14.244 15.581 299
+8 3 279 12.861 14.215 299
+8 4 279 11.463 12.832 299
+8 5 279 10.051 11.433 299
+8 6 279 8.626 10.021  299
+8 7 279 7.191 8.596   299
+8 8 279 5.362 7.160   299
+RIV RCO_GAS dist themin themax (8 settori)
+#1 189 5.362 16.950
+1 189 5.362 16.615
+#2 189 5.362 16.950
+2 189 5.362 16.615
+#3 189 5.362 16.950
+3 189 5.362 16.615
+#4 189 5.362 16.950
+4 189 5.362 16.615
+#5 189 5.362 16.950
+5 189 5.362 16.615
+#6 189 5.362 16.950
+6 189 5.362 16.615
+#7 189 5.362 16.950
+7 189 5.362 16.615
+#8 189 5.362 16.950
+8 189 5.362 16.615
+RIV RCO_CSI dist the themin themax (6 cesi per ogni settore)
+#1 316 15.597 14.244 16.950
+1 316 15.429 14.244 16.615
+#2 316 15.597 14.244 16.950
+2 316 15.429 14.244 16.615
+3 316 12.839 11.463 14.215
+4 316 12.839 11.463 14.215
+5 316 8.397   5.362  11.433
+6 316 8.397   5.362  11.433
+PRESSIONE_GARFIELD 48.9 mbar
+PRESSIONE_GARFIELD_BACK 20 mbar
+TABELLA_PERDITE_GARFIELD tabella_perdite_garfield_csym48Ca.txt
+CODICE_GARF /fazia6b/csym/garf_analisi/codice_garf_csym48Ca.txt
+SOGLIE_GARF /fazia6b/csym/garf_analisi/soglie_csi_csym.txt
+PRESSIONE_RCO 50 mbar
+TABELLA_PERDITE_RCO tabella_perdite_rco_csym48Ca.txt
+CODICE_RCO_GAS /fazia6b/csym/garf_analisi/codice_rco_gas_csym48Ca.txt
+CODICE_RCO_STRIP /fazia6b/csym/garf_analisi/codice_rco_strip_csym48Ca.txt
+CODICE_RCO_CSI /fazia6b/csym/garf_analisi/codice_rco_csi_csym48Ca.txt
+SOGLIE_RCO_CSI /fazia6b/csym/garf_analisi/soglie_csi_rco_csym.txt
+MICRO_ROTTE /fazia6b/csym/garf_analisi/garf_micro_rotte_csym48Ca.txt
+CUTG /fazia6b/csym/garf_analisi/gate_fusioneCa48_mctwingo.root contorno100
+CUTG /fazia6b/csym/garf_analisi/gate_fusione12C.root fus
+CUTG /fazia6b/csym/garf_analisi/gate_breakupCa48.root contorno200
+CUTG /fazia6b/csym/garf_analisi/gate_fus_csym48Ca_mctwingogemini++4pi.root contorno500
+CUTG /fazia6b/csym/garf_analisi/gate_fus_csym48Ca_gemini4pi.root contorno8
+CUTG /fazia6b/csym/garf_analisi/gate_fus_csym48Ca_geminigeo.root contorno18
+INTERVALLI_MASSE /fazia6b/csym/garf_analisi_oct2016/garf_analisi/intervalli_csym_48ca.txt
+
+
+

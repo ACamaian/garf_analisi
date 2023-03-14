@@ -1,0 +1,181 @@
+#include <stdio.h>
+#include <iostream>
+#include <TFile.h>
+#include <TH2F.h>
+#include <TH1D.h>
+#include <TCanvas.h>
+void limiti(char *file="provae.root")
+{
+  TFile *f=new TFile(file);
+  TH2F *h[6][4][4];
+  TH2F *ha[6][4][4];
+  for(int j=0;j<6;j++)
+    {
+      for(int k=0;k<4;k++)
+	{
+	  for(int m=0;m<4;m++)
+	    {
+	      h[j][k][m]=0;
+	      ha[j][k][m]=0;
+	    }
+	}
+    }
+  TH1D *hz[6][4][4][40];
+  TH1D *hza[6][4][4][40];
+  for(int j=0;j<6;j++)
+    {
+      for(int k=0;k<4;k++)
+	{
+	  for(int m=0;m<4;m++)
+	    {
+	      for(int iz=0;iz<40;iz++)
+		{
+		  hz[j][k][m][iz]=0;
+		  hza[j][k][m][iz]=0;
+		}
+	    }
+	}
+    }
+  for(int j=0;j<6;j++)
+    {
+      for(int k=0;k<4;k++)
+	{
+	  for(int m=0;m<4;m++)
+	    {
+	      h[j][k][m]=(TH2F*)f->Get(Form("hzb%dq%dt%d",j,k+1,m+1));
+	      ha[j][k][m]=(TH2F*)f->Get(Form("hab%dq%dt%d",j,k+1,m+1));
+	      if(h[j][k][m]!=0)
+		{
+		  if(h[j][k][m]->Integral()>10)
+		    {
+		      for(int iz=1;iz<40;iz++)
+			{
+			  hz[j][k][m][iz]=(TH1D*)h[j][k][m]->ProjectionX(Form("hz%db%dq%dt%d",iz,j,k+1,m+1),h[j][k][m]->GetYaxis()->FindBin((float)iz),h[j][k][m]->GetYaxis()->FindBin((float)iz));
+			  
+			}
+		    }
+		}
+	      if(ha[j][k][m]!=0)
+		{
+		  if(ha[j][k][m]->Integral()>10)
+		    {
+		      for(int iz=1;iz<40;iz++)
+			{
+			  hza[j][k][m][iz]=(TH1D*)ha[j][k][m]->ProjectionX(Form("hza%db%dq%dt%d",iz,j,k+1,m+1),ha[j][k][m]->GetYaxis()->FindBin((float)iz),ha[j][k][m]->GetYaxis()->FindBin((float)iz));
+			  
+			}
+		    }
+		}
+
+
+
+	    }
+	}
+    }
+
+
+    FILE *apri=fopen("limitizidCa48.txt","w");
+  // FILE *apri=fopen("limitizidCa40.txt","w");
+  fprintf(apri,"#Limiti di energia lasciata in Si1 per identificazione in Z e A per PSA Imax-E in Si1\n");
+  fprintf(apri,"#blocco qua tel Z ESi1minZid ESi1maxZid ESi1minAid ESi1maxAid\n");
+  for(int j=0;j<6;j++)
+    {
+     for(int k=0;k<4;k++)
+	{
+	  for(int m=0;m<4;m++)
+	    {
+		      for(int iz=1;iz<40;iz++)
+			{
+			  if(hz[j][k][m][iz]!=0)
+			    {
+			      if(hz[j][k][m][iz]->Integral()>0)
+				{
+				  int ix0=0;
+				  for(int ix=0;ix<hz[j][k][m][iz]->GetXaxis()->GetNbins()-2;ix++)
+				    {
+				      if(hz[j][k][m][iz]->GetBinContent(ix+1)>0 &&hz[j][k][m][iz]->GetBinContent(ix+2)>0)
+					{
+					  ix0=ix+1;
+					  break;
+					}
+				    }
+				  int ixf=10000;
+				  for(int ix=hz[j][k][m][iz]->GetXaxis()->GetNbins();ix>3;ix--)
+				    {
+				      if(hz[j][k][m][iz]->GetBinContent(ix)==0 &&hz[j][k][m][iz]->GetBinContent(ix-1)>0&&hz[j][k][m][iz]->GetBinContent(ix-2)>0)
+					{
+					  ixf=ix;
+					  break;
+					}
+				    }
+				  if(ix0>0)
+				    {
+				      // cout<<j<<" "<<k+1<<" "<<m+1<<" "<<iz<<" "<<ix0<<" "<<" "<<hz[j][k][m][iz]->Integral()<<endl;  
+				      fprintf(apri,"%d %d %d %d %.1f",j,k+1,m+1,iz,hz[j][k][m][iz]->GetBinLowEdge(ix0));
+				    
+				  if(ixf<10000 && ixf>ix0)
+				    {
+				      fprintf(apri," %.1f",hz[j][k][m][iz]->GetBinLowEdge(ixf));
+				    }
+				  else
+				    {
+				      fprintf(apri," 10000");
+				    }
+				  if(hza[j][k][m][iz]!=0)
+				    {
+			      if(hza[j][k][m][iz]->Integral()>0)
+				{
+
+				  int ia0=0;
+				  for(int ix=0;ix<hza[j][k][m][iz]->GetXaxis()->GetNbins()-2;ix++)
+				    {
+				      if(hza[j][k][m][iz]->GetBinContent(ix+1)>0 &&hza[j][k][m][iz]->GetBinContent(ix+2)>0)
+					{
+					  ia0=ix+1;
+					  break;
+					}
+				    }
+				  if(ia0>0)
+				    {
+				      fprintf(apri," %.1f",hza[j][k][m][iz]->GetBinLowEdge(ia0));
+
+				    int iaf=hza[j][k][m][iz]->GetXaxis()->GetNbins();
+				  for(int ix=hza[j][k][m][iz]->GetXaxis()->GetNbins();ix>3;ix--)
+				    {
+				      if(hza[j][k][m][iz]->GetBinContent(ix)==0 &&hza[j][k][m][iz]->GetBinContent(ix-1)>0&&hza[j][k][m][iz]->GetBinContent(ix-2)>0)
+					{
+					  iaf=ix;
+					  break;
+					}
+				    }   
+				  fprintf(apri," %.1f\n",hza[j][k][m][iz]->GetBinLowEdge(iaf));
+
+				    }//ia0>0
+				  else//ia0=0
+				    {
+				      fprintf(apri," -1  -1 \n");
+
+				    }//ia0=0
+
+				}//hza integral>0
+			      else//hza integral ==0
+				{
+				  fprintf(apri," -1  -1 \n");
+				}//hza integral ==0
+
+
+				    }//haz!=0
+				  else//haz==0
+				    {
+				      fprintf(apri," -1  -1 \n");
+				    }//haz==0
+				  
+				    }//ix0>0
+				}//hz integral>0
+			    }//hz>0
+			}//iz=1,40
+	    }//m=0,4 tel
+	}//k=0,4 qua
+    }//j=0,4 blocco
+  fclose(apri);
+}

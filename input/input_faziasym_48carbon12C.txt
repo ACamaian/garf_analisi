@@ -1,0 +1,43 @@
+# dati reazione (Zp Ap Zt At E/A spess_target_microg/cm2 trigger plastichino)
+
+#Csym
+#REAC 16 32 20 40 17.7 500 32
+
+#delight
+#REAC 7 14 5 10 5.76 148 32
+
+#ISOFAZIA
+#REAC 36 80 20 48 35.0 500 0
+
+#FAZIASYM
+REAC 20 48 6 12 35.0 300 0
+
+HISTO lista_histo.txt
+
+
+# tipo nome_file geo/4pi n.eventi evento_iniziale
+#MC testCa40gemini.root 4pi 5 0
+#MC testCa40gemini.root 4pi -1
+#MC testCa40gemini.root geo -1
+#MC_G++_AMD /home/piantell/ISOFAZIA/analisi/dati/gemini_amd_Kr80Ca48_35AMeV_stiff_t500_uscitaAMD.txt.root_80Kr_48Ca_35_stiff_amd.cfg.root.root geo -1
+#MC_G++_AMD /home/piantell/ISOFAZIA/analisi/dati/gemini_amd_80Kr48Ca35_stiff_screen0.42_t500_uscitaAMD.txt.root_80Kr_48Ca_35_stiff_amd2017_screen0.42.cfg.root.root geo -1
+#MC_G++_AMD /home/piantell/FAZIASYM/dati/gemini_amd_35Ca48Ca48_stiff_screen0.92_t500_uscitaAMD.txt.root_35Ca48Ca48_stiff_screen0.92.cfg.root.root geo -1
+
+
+# tipo nome_file n.eventi evento_iniziale
+
+#EXPCOMP testCa40exp.root -1
+#EXP-FAZIA  /home/camaiani/FAZIA/FAZIASYM/dati/Ident_and_Calib_4848_allrivconcsi.root -1
+EXP-FAZIA  /fazia5b/FAZIAPRE/Ident_and_Calib_4848_c.root -1
+
+USCITA totFAZIASYM_4835.root
+#USCITA output/prova.root
+#USCITA provamcgeo.root
+#USCITA provamc4pi.root
+GEO geometria_faziasym_4848.txt
+
+
+NTUPLA no
+#NTUPLA yes
+
+
