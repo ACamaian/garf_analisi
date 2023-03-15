@@ -17,7 +17,7 @@ HISTO lista_histo/lista_histo.txt
 # tipo nome_file n.eventi evento_iniziale
 
 #EXPCOMP testCa40exp.root -1
-EXP-FAZIA  /home/camaiani/FAZIA/FAZIASYM/dati/Ident_and_Calib_4848_allrivconcsi_idcode99_allcut20_ecodesandro.root 1000 0
+EXP-FAZIA  /home/camaiani/FAZIA/FAZIASYM/dati/Ident_and_Calib_4848_allrivconcsi_idcode99_allcut20_ecodesandro.root 1000000 0
 
 
 USCITA output/prova.root

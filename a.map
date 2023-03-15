@@ -69,11 +69,6 @@ Discarded input sections
  .group         0x0000000000000000        0x8 Classe_evento.o
  .group         0x0000000000000000        0x8 Classe_evento.o
  .group         0x0000000000000000        0x8 Classe_evento.o
- .group         0x0000000000000000        0x8 Classe_evento.o
- .group         0x0000000000000000        0x8 Classe_evento.o
- .group         0x0000000000000000        0x8 Classe_evento.o
- .group         0x0000000000000000        0x8 Classe_evento.o
- .group         0x0000000000000000        0x8 Classe_evento.o
  .text._ZNKSt5ctypeIcE8do_widenEc
                 0x0000000000000000        0x3 Classe_evento.o
  .text._ZN14Classe_formule6polcarEfffPf
@@ -214,632 +209,606 @@ LOAD /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/crtn.o
 .hash
  *(.hash)
 
-.gnu.hash       0x0000000000000298      0x740
+.gnu.hash       0x0000000000000298      0x624
  *(.gnu.hash)
- .gnu.hash      0x0000000000000298      0x740 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+ .gnu.hash      0x0000000000000298      0x624 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
 
-.dynsym         0x00000000000009d8     0x1da0
+.dynsym         0x00000000000008c0     0x1d28
  *(.dynsym)
- .dynsym        0x00000000000009d8     0x1da0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+ .dynsym        0x00000000000008c0     0x1d28 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
 
-.dynstr         0x0000000000002778     0x2135
+.dynstr         0x00000000000025e8     0x1f98
  *(.dynstr)
- .dynstr        0x0000000000002778     0x2135 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+ .dynstr        0x00000000000025e8     0x1f98 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
 
-.gnu.version    0x00000000000048ae      0x278
+.gnu.version    0x0000000000004580      0x26e
  *(.gnu.version)
- .gnu.version   0x00000000000048ae      0x278 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+ .gnu.version   0x0000000000004580      0x26e /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
 
-.gnu.version_d  0x0000000000004b28        0x0
+.gnu.version_d  0x00000000000047f0        0x0
  *(.gnu.version_d)
  .gnu.version_d
-                0x0000000000004b28        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+                0x00000000000047f0        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
 
-.gnu.version_r  0x0000000000004b28      0x140
+.gnu.version_r  0x00000000000047f0      0x140
  *(.gnu.version_r)
  .gnu.version_r
-                0x0000000000004b28      0x140 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+                0x00000000000047f0      0x140 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
 
-.rela.dyn       0x0000000000004c68      0x288
+.rela.dyn       0x0000000000004930      0x288
  *(.rela.init)
  *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
- .rela.text     0x0000000000004c68        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+ .rela.text     0x0000000000004930        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
  .rela.text._ZN6TNamedC2EPKcS1_
-                0x0000000000004c68        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+                0x0000000000004930        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
  .rela.text._ZNSt6vectorIS_IS_IS_IfSaIfEESaIS1_EESaIS3_EESaIS5_EEC2ERKS7_
-                0x0000000000004c68        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+                0x0000000000004930        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
  .rela.text._ZN5TTree16SetBranchAddressIjEEiPKcPT_PP7TBranch
-                0x0000000000004c68        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+                0x0000000000004930        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
  .rela.text._ZN5TTree16SetBranchAddressIfEEiPKcPT_PP7TBranch
-                0x0000000000004c68        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+                0x0000000000004930        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
  .rela.text._ZN5TTree16SetBranchAddressIiEEiPKcPT_PP7TBranch
-                0x0000000000004c68        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+                0x0000000000004930        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
  .rela.text._ZN5TTree16SetBranchAddressIA1000_iEEiPKcPT_PP7TBranch
-                0x0000000000004c68        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+                0x0000000000004930        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
  .rela.text._ZN5TTree16SetBranchAddressIA1000_fEEiPKcPT_PP7TBranch
-                0x0000000000004c68        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+                0x0000000000004930        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
  .rela.text._ZNSt6vectorIS_IfSaIfEESaIS1_EE9push_backERKS1_
-                0x0000000000004c68        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+                0x0000000000004930        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
  .rela.text._ZNSt6vectorIiSaIiEE12emplace_backIJiEEEvDpOT_
-                0x0000000000004c68        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+                0x0000000000004930        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
  .rela.text._ZNSt6vectorIiSaIiEE9push_backERKi
-                0x0000000000004c68        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+                0x0000000000004930        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
  .rela.text._ZNSt6vectorIfSaIfEE12emplace_backIJfEEEvDpOT_
-                0x0000000000004c68        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+                0x0000000000004930        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
  .rela.text._ZNSt6vectorIfSaIfEE9push_backERKf
-                0x0000000000004c68        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+                0x0000000000004930        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
  .rela.text._ZNSt6vectorIS_IfSaIfEESaIS1_EEaSERKS3_
-                0x0000000000004c68        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
- .rela.text._ZSt16__introsort_loopIPilN9__gnu_cxx5__ops15_Iter_comp_iterI11CompareDescIPKiEEEEvT_S9_T0_T1_
-                0x0000000000004c68        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
- .rela.text._ZSt16__introsort_loopIPilN9__gnu_cxx5__ops15_Iter_comp_iterI10CompareAscIPKiEEEEvT_S9_T0_T1_
-                0x0000000000004c68        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
- .rela.text._ZN5TMath4SortIiiEEvT0_PKT_PS1_b
-                0x0000000000004c68        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+                0x0000000000004930        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
  .rela.text.startup
-                0x0000000000004c68        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+                0x0000000000004930        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
  *(.rela.fini)
  *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
  *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
  .rela.data.rel.ro
-                0x0000000000004c68       0x90 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+                0x0000000000004930       0x90 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
  .rela.data.rel.local
-                0x0000000000004cf8       0x18 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+                0x00000000000049c0       0x18 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
  .rela.data.DW.ref.__gxx_personality_v0
-                0x0000000000004d10       0x18 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+                0x00000000000049d8       0x18 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
  .rela.data.rel.ro._ZTIA1000_i
-                0x0000000000004d28       0x30 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+                0x00000000000049f0       0x30 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
  .rela.data.rel.ro._ZTIA1000_f
-                0x0000000000004d58       0x30 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+                0x0000000000004a20       0x30 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
  *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
  *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
  *(.rela.ctors)
  *(.rela.dtors)
  *(.rela.got)
- .rela.got      0x0000000000004d88       0xa8 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+ .rela.got      0x0000000000004a50       0xa8 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
  *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
- .rela.bss      0x0000000000004e30       0x30 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+ .rela.bss      0x0000000000004af8       0x30 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
  *(.rela.ldata .rela.ldata.* .rela.gnu.linkonce.l.*)
  *(.rela.lbss .rela.lbss.* .rela.gnu.linkonce.lb.*)
  *(.rela.lrodata .rela.lrodata.* .rela.gnu.linkonce.lr.*)
  *(.rela.ifunc)
  .rela.fini_array
-                0x0000000000004e60       0x18 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+                0x0000000000004b28       0x18 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
  .rela.init_array
-                0x0000000000004e78       0x78 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+                0x0000000000004b40       0x78 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
  .rela.eh_frame
-                0x0000000000004ef0        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+                0x0000000000004bb8        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
 
-.rela.plt       0x0000000000004ef0      0xa08
+.rela.plt       0x0000000000004bb8      0xa08
  *(.rela.plt)
- .rela.plt      0x0000000000004ef0      0xa08 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+ .rela.plt      0x0000000000004bb8      0xa08 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
                 [!provide]                        PROVIDE (__rela_iplt_start, .)
  *(.rela.iplt)
                 [!provide]                        PROVIDE (__rela_iplt_end, .)
 
-.init           0x00000000000058f8       0x17
+.init           0x00000000000055c0       0x17
  *(SORT(.init))
- .init          0x00000000000058f8       0x12 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/crti.o
-                0x00000000000058f8                _init
- .init          0x000000000000590a        0x5 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/crtn.o
+ .init          0x00000000000055c0       0x12 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/crti.o
+                0x00000000000055c0                _init
+ .init          0x00000000000055d2        0x5 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/crtn.o
 
-.plt            0x0000000000005910      0x6c0
+.plt            0x00000000000055e0      0x6c0
  *(.plt)
- .plt           0x0000000000005910      0x6c0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+ .plt           0x00000000000055e0      0x6c0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
  *(.iplt)
 
-.plt.got        0x0000000000005fd0        0x8
+.plt.got        0x0000000000005ca0        0x8
  *(.plt.got)
- .plt.got       0x0000000000005fd0        0x8 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+ .plt.got       0x0000000000005ca0        0x8 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
 
 .plt.bnd
  *(.plt.bnd)
 
-.text           0x0000000000005fe0    0x478e2
+.text           0x0000000000005cb0    0x468c2
  *(.text.unlikely .text.*_unlikely .text.unlikely.*)
  *(.text.exit .text.exit.*)
  *(.text.startup .text.startup.*)
- .text.startup  0x0000000000005fe0       0x3f Classe_geo.o
- *fill*         0x000000000000601f        0x1 
- .text.startup  0x0000000000006020       0x3f Classe_evento.o
- *fill*         0x000000000000605f        0x1 
- .text.startup  0x0000000000006060       0x3f Classe_analisi.o
- *fill*         0x000000000000609f        0x1 
- .text.startup  0x00000000000060a0     0x1a79 faianalisi.o
-                0x00000000000060e0                main
+ .text.startup  0x0000000000005cb0       0x3f Classe_geo.o
+ *fill*         0x0000000000005cef        0x1 
+ .text.startup  0x0000000000005cf0       0x3f Classe_evento.o
+ *fill*         0x0000000000005d2f        0x1 
+ .text.startup  0x0000000000005d30       0x3f Classe_analisi.o
+ *fill*         0x0000000000005d6f        0x1 
+ .text.startup  0x0000000000005d70     0x1a79 faianalisi.o
+                0x0000000000005db0                main
  *(.text.hot .text.hot.*)
  *(.text .stub .text.* .gnu.linkonce.t.*)
- *fill*         0x0000000000007b19        0x7 
- .text          0x0000000000007b20       0x2b /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
-                0x0000000000007b20                _start
- .text          0x0000000000007b4b        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/crti.o
- *fill*         0x0000000000007b4b        0x5 
- .text          0x0000000000007b50      0x100 /usr/lib/gcc/x86_64-linux-gnu/6/crtbeginS.o
- .text          0x0000000000007c50      0xeba vedaloss.o
-                0x0000000000007c50                loss_init_
-                0x00000000000089f0                vedaloss_
- *fill*         0x0000000000008b0a        0x6 
- .text          0x0000000000008b10     0x1ee7 ecorr_veda.o
-                0x0000000000008b10                set_thickness_
-                0x0000000000008c60                get_param_
-                0x0000000000008ed0                eloss_
-                0x0000000000009440                param_
-                0x0000000000009510                fast_param_
-                0x0000000000009570                delta_
-                0x0000000000009a20                ecorr_veda_
-                0x0000000000009e20                get_thickness_
-                0x0000000000009f50                range_
-                0x000000000000a110                set_gaz_param_
-                0x000000000000a160                error_code_
-                0x000000000000a660                exitp_
-                0x000000000000a670                de_vedaloss_
- *fill*         0x000000000000a9f7        0x9 
- .text          0x000000000000aa00     0x2bfa theta_flow.o
-                0x000000000000aa00                iim_
-                0x000000000000b3d0                deccrm_
-                0x000000000000b610                vamr_
-                0x000000000000bd90                epmri_
-                0x000000000000c1a0                data_
-                0x000000000000c1d0                scaprod_
-                0x000000000000c200                findeigen_
-                0x000000000000c380                findlargest_
-                0x000000000000c3d0                mulmatrix_
-                0x000000000000c470                thetaflow_
-                0x000000000000c690                calcola_autovec_
- *fill*         0x000000000000d5fa        0x6 
- .text          0x000000000000d600    0x16775 Classe_geo.o
-                0x000000000000d600                Classe_geo::E2Luce_csi(double, double, double)
-                0x000000000000d740                Classe_geo::Luce2E_csi(double, double, double)
-                0x000000000000d8b0                Classe_geo::vedaloss()
-                0x000000000000d8c0                Classe_geo::ecorr_veda(float*, float*, float*, float*, float*, float*, int*, float*, int*, int*, float*)
-                0x000000000000d910                Classe_geo::prova()
-                0x000000000000d920                Classe_geo::Getgeo()
-                0x000000000000ede0                Classe_geo::InsidePhos(float, float, float, float*, int*)
-                0x000000000000f190                Classe_geo::InsideFazietto(float, float, float, float*, int*)
-                0x000000000000f8c0                Classe_geo::InsideHector(float, float, float*, int*)
-                0x000000000000fc60                Classe_geo::InsideGarf(float, float, float, int*, int*)
-                0x0000000000010170                Classe_geo::Spalma_Fazietto(float, float*, float*, float*)
-                0x00000000000104d0                Classe_geo::Soglie_Hector(float, float, float, float, float, float*, float*, float*, float*)
-                0x0000000000010630                Classe_geo::Spalma_Garfield(float, float*, float*, int)
-                0x0000000000010b40                Classe_geo::Spalma_Phos(float, float*, float*, float*)
-                0x0000000000010e80                Classe_geo::Spalma_Hector(int, float*, float*, float*)
-                0x0000000000011160                Classe_geo::calcolaGARF(int, int, int, double*, double*, double*, double*, double*)
-                0x0000000000011ac0                Classe_geo::calcolaRCO(int, int, int, int, double*, double*, double*, double*, double*, int*)
-                0x0000000000012610                scrivi_ric(_IO_FILE*, Nodo*, int, int, int, int, int)
-                0x0000000000012810                leggi_ric(_IO_FILE*, Nodo*)
-                0x00000000000129f0                Classe_geo::TabellaPerdite(char*)
-                0x0000000000012fc0                Classe_geo::TabellaPerditeRCO(char*)
-                0x0000000000013600                Classe_geo::Range(float, float, float, int)
-                0x00000000000138d0                Classe_geo::DE2E(float, float, float, int, float)
-                0x0000000000013950                Classe_geo::Epunch(float, float, float, int)
-                0x0000000000013c30                Classe_geo::Soglie_Phos(float, float, float, float, float, float, float*, float*, float*)
-                0x00000000000147b0                Classe_geo::Soglie_Fazietto(float, float, float, float, int, float*, float*, float*, int*)
-                0x0000000000015990                Classe_geo::CalcoloEGarf(int, int, float, float, float, int)
-                0x0000000000016a30                Classe_geo::Soglie_Garfield(float, float, float, float, int, float*, float*, float*, float*, float*, float*, float*, int*, int)
-                0x0000000000017610                Classe_geo::CalcoloERCO(int, int, float, float, float, int, int)
-                0x0000000000019480                Classe_geo::Soglie_RCO(float, float, float, float, float, int*, float*, float*, float*, float*, float*, float*, float*, float*)
-                0x000000000001a850                Classe_geo::InizializzaRCO()
-                0x000000000001b380                Classe_geo::InsideRCO(float, float, float, int*)
-                0x000000000001bce0                Classe_geo::SpalmaRCO(int, int, int, float*, float*)
-                0x000000000001de60                Classe_geo::Leggigeo(char*)
- *fill*         0x0000000000023d75        0xb 
+ *fill*         0x00000000000077e9        0x7 
+ .text          0x00000000000077f0       0x2b /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+                0x00000000000077f0                _start
+ .text          0x000000000000781b        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/crti.o
+ *fill*         0x000000000000781b        0x5 
+ .text          0x0000000000007820      0x100 /usr/lib/gcc/x86_64-linux-gnu/6/crtbeginS.o
+ .text          0x0000000000007920      0xeba vedaloss.o
+                0x0000000000007920                loss_init_
+                0x00000000000086c0                vedaloss_
+ *fill*         0x00000000000087da        0x6 
+ .text          0x00000000000087e0     0x1ee7 ecorr_veda.o
+                0x00000000000087e0                set_thickness_
+                0x0000000000008930                get_param_
+                0x0000000000008ba0                eloss_
+                0x0000000000009110                param_
+                0x00000000000091e0                fast_param_
+                0x0000000000009240                delta_
+                0x00000000000096f0                ecorr_veda_
+                0x0000000000009af0                get_thickness_
+                0x0000000000009c20                range_
+                0x0000000000009de0                set_gaz_param_
+                0x0000000000009e30                error_code_
+                0x000000000000a330                exitp_
+                0x000000000000a340                de_vedaloss_
+ *fill*         0x000000000000a6c7        0x9 
+ .text          0x000000000000a6d0     0x2bfa theta_flow.o
+                0x000000000000a6d0                iim_
+                0x000000000000b0a0                deccrm_
+                0x000000000000b2e0                vamr_
+                0x000000000000ba60                epmri_
+                0x000000000000be70                data_
+                0x000000000000bea0                scaprod_
+                0x000000000000bed0                findeigen_
+                0x000000000000c050                findlargest_
+                0x000000000000c0a0                mulmatrix_
+                0x000000000000c140                thetaflow_
+                0x000000000000c360                calcola_autovec_
+ *fill*         0x000000000000d2ca        0x6 
+ .text          0x000000000000d2d0    0x16775 Classe_geo.o
+                0x000000000000d2d0                Classe_geo::E2Luce_csi(double, double, double)
+                0x000000000000d410                Classe_geo::Luce2E_csi(double, double, double)
+                0x000000000000d580                Classe_geo::vedaloss()
+                0x000000000000d590                Classe_geo::ecorr_veda(float*, float*, float*, float*, float*, float*, int*, float*, int*, int*, float*)
+                0x000000000000d5e0                Classe_geo::prova()
+                0x000000000000d5f0                Classe_geo::Getgeo()
+                0x000000000000eab0                Classe_geo::InsidePhos(float, float, float, float*, int*)
+                0x000000000000ee60                Classe_geo::InsideFazietto(float, float, float, float*, int*)
+                0x000000000000f590                Classe_geo::InsideHector(float, float, float*, int*)
+                0x000000000000f930                Classe_geo::InsideGarf(float, float, float, int*, int*)
+                0x000000000000fe40                Classe_geo::Spalma_Fazietto(float, float*, float*, float*)
+                0x00000000000101a0                Classe_geo::Soglie_Hector(float, float, float, float, float, float*, float*, float*, float*)
+                0x0000000000010300                Classe_geo::Spalma_Garfield(float, float*, float*, int)
+                0x0000000000010810                Classe_geo::Spalma_Phos(float, float*, float*, float*)
+                0x0000000000010b50                Classe_geo::Spalma_Hector(int, float*, float*, float*)
+                0x0000000000010e30                Classe_geo::calcolaGARF(int, int, int, double*, double*, double*, double*, double*)
+                0x0000000000011790                Classe_geo::calcolaRCO(int, int, int, int, double*, double*, double*, double*, double*, int*)
+                0x00000000000122e0                scrivi_ric(_IO_FILE*, Nodo*, int, int, int, int, int)
+                0x00000000000124e0                leggi_ric(_IO_FILE*, Nodo*)
+                0x00000000000126c0                Classe_geo::TabellaPerdite(char*)
+                0x0000000000012c90                Classe_geo::TabellaPerditeRCO(char*)
+                0x00000000000132d0                Classe_geo::Range(float, float, float, int)
+                0x00000000000135a0                Classe_geo::DE2E(float, float, float, int, float)
+                0x0000000000013620                Classe_geo::Epunch(float, float, float, int)
+                0x0000000000013900                Classe_geo::Soglie_Phos(float, float, float, float, float, float, float*, float*, float*)
+                0x0000000000014480                Classe_geo::Soglie_Fazietto(float, float, float, float, int, float*, float*, float*, int*)
+                0x0000000000015660                Classe_geo::CalcoloEGarf(int, int, float, float, float, int)
+                0x0000000000016700                Classe_geo::Soglie_Garfield(float, float, float, float, int, float*, float*, float*, float*, float*, float*, float*, int*, int)
+                0x00000000000172e0                Classe_geo::CalcoloERCO(int, int, float, float, float, int, int)
+                0x0000000000019150                Classe_geo::Soglie_RCO(float, float, float, float, float, int*, float*, float*, float*, float*, float*, float*, float*, float*)
+                0x000000000001a520                Classe_geo::InizializzaRCO()
+                0x000000000001b050                Classe_geo::InsideRCO(float, float, float, int*)
+                0x000000000001b9b0                Classe_geo::SpalmaRCO(int, int, int, float*, float*)
+                0x000000000001db30                Classe_geo::Leggigeo(char*)
+ *fill*         0x0000000000023a45        0xb 
  .text._ZNKSt5ctypeIcE8do_widenEc
-                0x0000000000023d80        0x3 Classe_geo.o
-                0x0000000000023d80                std::ctype<char>::do_widen(char) const
- *fill*         0x0000000000023d83        0xd 
+                0x0000000000023a50        0x3 Classe_geo.o
+                0x0000000000023a50                std::ctype<char>::do_widen(char) const
+ *fill*         0x0000000000023a53        0xd 
  .text._ZN7TRandom4RndmEi
-                0x0000000000023d90        0x5 Classe_geo.o
-                0x0000000000023d90                TRandom::Rndm(int)
- *fill*         0x0000000000023d95        0xb 
+                0x0000000000023a60        0x5 Classe_geo.o
+                0x0000000000023a60                TRandom::Rndm(int)
+ *fill*         0x0000000000023a65        0xb 
  .text._ZNK7TString8ContainsEPKcNS_12ECaseCompareE
-                0x0000000000023da0       0x44 Classe_geo.o
-                0x0000000000023da0                TString::Contains(char const*, TString::ECaseCompare) const
- *fill*         0x0000000000023de4        0xc 
+                0x0000000000023a70       0x44 Classe_geo.o
+                0x0000000000023a70                TString::Contains(char const*, TString::ECaseCompare) const
+ *fill*         0x0000000000023ab4        0xc 
  .text._ZN14Classe_formule6polcarEfffPf
-                0x0000000000023df0       0xc2 Classe_geo.o
-                0x0000000000023df0                Classe_formule::polcar(float, float, float, float*)
- *fill*         0x0000000000023eb2        0xe 
+                0x0000000000023ac0       0xc2 Classe_geo.o
+                0x0000000000023ac0                Classe_formule::polcar(float, float, float, float*)
+ *fill*         0x0000000000023b82        0xe 
  .text._ZN14Classe_formule6QualeAEi
-                0x0000000000023ec0       0xf6 Classe_geo.o
-                0x0000000000023ec0                Classe_formule::QualeA(int)
- *fill*         0x0000000000023fb6        0xa 
+                0x0000000000023b90       0xf6 Classe_geo.o
+                0x0000000000023b90                Classe_formule::QualeA(int)
+ *fill*         0x0000000000023c86        0xa 
  .text._ZN5TMath4NintIfEEiT_
-                0x0000000000023fc0       0x6c Classe_geo.o
-                0x0000000000023fc0                int TMath::Nint<float>(float)
- *fill*         0x000000000002402c        0x4 
+                0x0000000000023c90       0x6c Classe_geo.o
+                0x0000000000023c90                int TMath::Nint<float>(float)
+ *fill*         0x0000000000023cfc        0x4 
  .text._ZN6TNamedC2EPKcS1_
-                0x0000000000024030       0x68 Classe_geo.o
-                0x0000000000024030                TNamed::TNamed(char const*, char const*)
-                0x0000000000024030                TNamed::TNamed(char const*, char const*)
- *fill*         0x0000000000024098        0x8 
- .text          0x00000000000240a0    0x1df0c Classe_evento.o
-                0x0000000000024460                fillh(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, double, double)
-                0x0000000000024640                fillh(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, double, double, double)
-                0x0000000000024840                geth1(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >)
-                0x0000000000024a00                geth2(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >)
-                0x0000000000024bc0                getg(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >)
-                0x0000000000024d80                Classe_analisi::RoutineFinale()
-                0x0000000000024d90                nsuz(TH1F*, TGraphErrors*, TGraphErrors**)
-                0x0000000000025390                ordinisup(TH1F*, TGraphErrors*, TGraphErrors*)
-                0x00000000000256a0                nsuz0(TH1F*, TGraphErrors*)
-                0x0000000000025aa0                Classe_evento::AzzeraEvento()
-                0x0000000000026720                Classe_evento::NoeffettiExp()
-                0x0000000000026ad0                Classe_evento::Escludi_Multiple_Hits()
-                0x0000000000026c70                Classe_evento::Correggi_Tempo_Phos(int, int, int)
-                0x000000000002a270                Classe_evento::Riporto()
-                0x000000000002a650                Classe_evento::RiportoGarfRCo()
-                0x000000000002b2f0                Classe_evento::Leggievento()
-                0x000000000002da60                Classe_evento::thetarelmix(int, std::vector<std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > >, std::allocator<std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > > > >, std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >)
-                0x000000000002e340                Classe_evento::thetarel2part(std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >)
-                0x000000000002f150                Classe_evento::pcmmix(int, std::vector<std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > >, std::allocator<std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > > > >, std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >)
-                0x000000000002f930                Classe_evento::pmix(int, std::vector<std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > >, std::allocator<std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > > > >, std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >)
-                0x0000000000030120                Classe_evento::Vcmmix(int, std::vector<std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > >, std::allocator<std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > > > >, std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >)
-                0x0000000000030a20                Classe_evento::pcm2part(std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >)
-                0x0000000000031550                Classe_evento::Vcm2part(std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >)
-                0x0000000000032230                Classe_evento::prel2part(std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >)
-                0x0000000000033000                Classe_evento::Copia_in_Evento(int)
-                0x000000000003ab20                Classe_evento::mixatore(int, int, int, int, int, int, int, int)
-                0x000000000003d210                Classe_evento::AnalisiPrincipale()
-                0x000000000003dc00                Classe_evento::AnalizzaEvento()
- *fill*         0x0000000000041fac        0x4 
+                0x0000000000023d00       0x68 Classe_geo.o
+                0x0000000000023d00                TNamed::TNamed(char const*, char const*)
+                0x0000000000023d00                TNamed::TNamed(char const*, char const*)
+ *fill*         0x0000000000023d68        0x8 
+ .text          0x0000000000023d70    0x1dacc Classe_evento.o
+                0x0000000000023ec0                fillh(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, double, double)
+                0x00000000000240a0                fillh(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, double, double, double)
+                0x00000000000242a0                geth1(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >)
+                0x0000000000024460                geth2(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >)
+                0x0000000000024620                getg(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >)
+                0x00000000000247e0                Classe_evento::AnalisiPrincipale()
+                0x0000000000024b80                Classe_analisi::RoutineFinale()
+                0x0000000000024b90                nsuz(TH1F*, TGraphErrors*, TGraphErrors**)
+                0x0000000000025190                ordinisup(TH1F*, TGraphErrors*, TGraphErrors*)
+                0x00000000000254a0                nsuz0(TH1F*, TGraphErrors*)
+                0x00000000000258a0                Classe_evento::AzzeraEvento()
+                0x0000000000026520                Classe_evento::NoeffettiExp()
+                0x00000000000268d0                Classe_evento::Escludi_Multiple_Hits()
+                0x0000000000026a70                Classe_evento::Correggi_Tempo_Phos(int, int, int)
+                0x000000000002a070                Classe_evento::Riporto()
+                0x000000000002a450                Classe_evento::RiportoGarfRCo()
+                0x000000000002b0f0                Classe_evento::Leggievento()
+                0x000000000002d8f0                Classe_evento::thetarelmix(int, std::vector<std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > >, std::allocator<std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > > > >, std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >)
+                0x000000000002e1d0                Classe_evento::thetarel2part(std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >)
+                0x000000000002efe0                Classe_evento::pcmmix(int, std::vector<std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > >, std::allocator<std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > > > >, std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >)
+                0x000000000002f7c0                Classe_evento::pmix(int, std::vector<std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > >, std::allocator<std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > > > >, std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >)
+                0x000000000002ffb0                Classe_evento::Vcmmix(int, std::vector<std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > >, std::allocator<std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > > > >, std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >)
+                0x00000000000308b0                Classe_evento::pcm2part(std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >)
+                0x00000000000313e0                Classe_evento::Vcm2part(std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >)
+                0x00000000000320c0                Classe_evento::prel2part(std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >)
+                0x0000000000032e90                Classe_evento::Copia_in_Evento(int)
+                0x000000000003abd0                Classe_evento::AnalizzaEvento()
+                0x000000000003ef80                Classe_evento::mixatore(int, int, int, int, int, int, int, int)
+ *fill*         0x000000000004183c        0x4 
  .text._ZNK6TNamed7GetNameEv
-                0x0000000000041fb0       0x15 Classe_evento.o
-                0x0000000000041fb0                TNamed::GetName() const
- *fill*         0x0000000000041fc5        0xb 
+                0x0000000000041840       0x15 Classe_evento.o
+                0x0000000000041840                TNamed::GetName() const
+ *fill*         0x0000000000041855        0xb 
  .text._ZNK12TGraphErrors5GetEYEv
-                0x0000000000041fd0        0x8 Classe_evento.o
-                0x0000000000041fd0                TGraphErrors::GetEY() const
- *fill*         0x0000000000041fd8        0x8 
+                0x0000000000041860        0x8 Classe_evento.o
+                0x0000000000041860                TGraphErrors::GetEY() const
+ *fill*         0x0000000000041868        0x8 
  .text._ZN14Classe_formule6carpolEPfS0_S0_S0_
-                0x0000000000041fe0      0x19e Classe_evento.o
-                0x0000000000041fe0                Classe_formule::carpol(float*, float*, float*, float*)
- *fill*         0x000000000004217e        0x2 
+                0x0000000000041870      0x19e Classe_evento.o
+                0x0000000000041870                Classe_formule::carpol(float*, float*, float*, float*)
+ *fill*         0x0000000000041a0e        0x2 
  .text._ZNSt6vectorIS_IfSaIfEESaIS1_EED2Ev
-                0x0000000000042180       0x4d Classe_evento.o
-                0x0000000000042180                std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >::~vector()
-                0x0000000000042180                std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >::~vector()
- *fill*         0x00000000000421cd        0x3 
+                0x0000000000041a10       0x4d Classe_evento.o
+                0x0000000000041a10                std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >::~vector()
+                0x0000000000041a10                std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >::~vector()
+ *fill*         0x0000000000041a5d        0x3 
  .text._ZNSt6vectorIS_IS_IS_IfSaIfEESaIS1_EESaIS3_EESaIS5_EED2Ev
-                0x00000000000421d0       0xbc Classe_evento.o
-                0x00000000000421d0                std::vector<std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > >, std::allocator<std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > > > >::~vector()
-                0x00000000000421d0                std::vector<std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > >, std::allocator<std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > > > >::~vector()
- *fill*         0x000000000004228c        0x4 
+                0x0000000000041a60       0xbc Classe_evento.o
+                0x0000000000041a60                std::vector<std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > >, std::allocator<std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > > > >::~vector()
+                0x0000000000041a60                std::vector<std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > >, std::allocator<std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > > > >::~vector()
+ *fill*         0x0000000000041b1c        0x4 
  .text._ZN5TMath4NintIdEEiT_
-                0x0000000000042290       0x60 Classe_evento.o
-                0x0000000000042290                int TMath::Nint<double>(double)
+                0x0000000000041b20       0x60 Classe_evento.o
+                0x0000000000041b20                int TMath::Nint<double>(double)
  .text._ZNSt6vectorIS_IfSaIfEESaIS1_EEC2ERKS3_
-                0x00000000000422f0      0x1b0 Classe_evento.o
-                0x00000000000422f0                std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >::vector(std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > const&)
-                0x00000000000422f0                std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >::vector(std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > const&)
+                0x0000000000041b80      0x1b0 Classe_evento.o
+                0x0000000000041b80                std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >::vector(std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > const&)
+                0x0000000000041b80                std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >::vector(std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > const&)
  .text._ZNSt6vectorIS_IS_IS_IfSaIfEESaIS1_EESaIS3_EESaIS5_EEC2ERKS7_
-                0x00000000000424a0      0x48b Classe_evento.o
-                0x00000000000424a0                std::vector<std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > >, std::allocator<std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > > > >::vector(std::vector<std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > >, std::allocator<std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > > > > const&)
-                0x00000000000424a0                std::vector<std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > >, std::allocator<std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > > > >::vector(std::vector<std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > >, std::allocator<std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > > > > const&)
- *fill*         0x000000000004292b        0x5 
+                0x0000000000041d30      0x48b Classe_evento.o
+                0x0000000000041d30                std::vector<std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > >, std::allocator<std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > > > >::vector(std::vector<std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > >, std::allocator<std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > > > > const&)
+                0x0000000000041d30                std::vector<std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > >, std::allocator<std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > > > >::vector(std::vector<std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > >, std::allocator<std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > > > > const&)
+ *fill*         0x00000000000421bb        0x5 
  .text._ZN5TTree16SetBranchAddressIjEEiPKcPT_PP7TBranch
-                0x0000000000042930       0x7b Classe_evento.o
-                0x0000000000042930                int TTree::SetBranchAddress<unsigned int>(char const*, unsigned int*, TBranch**)
- *fill*         0x00000000000429ab        0x5 
+                0x00000000000421c0       0x7b Classe_evento.o
+                0x00000000000421c0                int TTree::SetBranchAddress<unsigned int>(char const*, unsigned int*, TBranch**)
+ *fill*         0x000000000004223b        0x5 
  .text._ZN5TTree16SetBranchAddressIfEEiPKcPT_PP7TBranch
-                0x00000000000429b0       0x7b Classe_evento.o
-                0x00000000000429b0                int TTree::SetBranchAddress<float>(char const*, float*, TBranch**)
- *fill*         0x0000000000042a2b        0x5 
+                0x0000000000042240       0x7b Classe_evento.o
+                0x0000000000042240                int TTree::SetBranchAddress<float>(char const*, float*, TBranch**)
+ *fill*         0x00000000000422bb        0x5 
  .text._ZN5TTree16SetBranchAddressIiEEiPKcPT_PP7TBranch
-                0x0000000000042a30       0x7b Classe_evento.o
-                0x0000000000042a30                int TTree::SetBranchAddress<int>(char const*, int*, TBranch**)
- *fill*         0x0000000000042aab        0x5 
+                0x00000000000422c0       0x7b Classe_evento.o
+                0x00000000000422c0                int TTree::SetBranchAddress<int>(char const*, int*, TBranch**)
+ *fill*         0x000000000004233b        0x5 
  .text._ZN5TTree16SetBranchAddressIA1000_iEEiPKcPT_PP7TBranch
-                0x0000000000042ab0       0x7b Classe_evento.o
-                0x0000000000042ab0                int TTree::SetBranchAddress<int [1000]>(char const*, int (*) [1000], TBranch**)
- *fill*         0x0000000000042b2b        0x5 
+                0x0000000000042340       0x7b Classe_evento.o
+                0x0000000000042340                int TTree::SetBranchAddress<int [1000]>(char const*, int (*) [1000], TBranch**)
+ *fill*         0x00000000000423bb        0x5 
  .text._ZN5TTree16SetBranchAddressIA1000_fEEiPKcPT_PP7TBranch
-                0x0000000000042b30       0x7b Classe_evento.o
-                0x0000000000042b30                int TTree::SetBranchAddress<float [1000]>(char const*, float (*) [1000], TBranch**)
- *fill*         0x0000000000042bab        0x5 
+                0x00000000000423c0       0x7b Classe_evento.o
+                0x00000000000423c0                int TTree::SetBranchAddress<float [1000]>(char const*, float (*) [1000], TBranch**)
+ *fill*         0x000000000004243b        0x5 
  .text._ZNSt6vectorIS_IfSaIfEESaIS1_EE19_M_emplace_back_auxIJRKS1_EEEvDpOT_
-                0x0000000000042bb0      0x264 Classe_evento.o
-                0x0000000000042bb0                void std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >::_M_emplace_back_aux<std::vector<float, std::allocator<float> > const&>(std::vector<float, std::allocator<float> > const&)
- *fill*         0x0000000000042e14        0xc 
+                0x0000000000042440      0x264 Classe_evento.o
+                0x0000000000042440                void std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >::_M_emplace_back_aux<std::vector<float, std::allocator<float> > const&>(std::vector<float, std::allocator<float> > const&)
+ *fill*         0x00000000000426a4        0xc 
  .text._ZNSt6vectorIS_IfSaIfEESaIS1_EE9push_backERKS1_
-                0x0000000000042e20       0xd4 Classe_evento.o
-                0x0000000000042e20                std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >::push_back(std::vector<float, std::allocator<float> > const&)
- *fill*         0x0000000000042ef4        0xc 
+                0x00000000000426b0       0xd4 Classe_evento.o
+                0x00000000000426b0                std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >::push_back(std::vector<float, std::allocator<float> > const&)
+ *fill*         0x0000000000042784        0xc 
  .text._ZNSt6vectorIiSaIiEE19_M_emplace_back_auxIJiEEEvDpOT_
-                0x0000000000042f00       0xdc Classe_evento.o
-                0x0000000000042f00                void std::vector<int, std::allocator<int> >::_M_emplace_back_aux<int>(int&&)
- *fill*         0x0000000000042fdc        0x4 
+                0x0000000000042790       0xdc Classe_evento.o
+                0x0000000000042790                void std::vector<int, std::allocator<int> >::_M_emplace_back_aux<int>(int&&)
+ *fill*         0x000000000004286c        0x4 
  .text._ZNSt6vectorIiSaIiEE12emplace_backIJiEEEvDpOT_
-                0x0000000000042fe0       0x25 Classe_evento.o
-                0x0000000000042fe0                void std::vector<int, std::allocator<int> >::emplace_back<int>(int&&)
- *fill*         0x0000000000043005        0xb 
+                0x0000000000042870       0x25 Classe_evento.o
+                0x0000000000042870                void std::vector<int, std::allocator<int> >::emplace_back<int>(int&&)
+ *fill*         0x0000000000042895        0xb 
  .text._ZNSt6vectorIiSaIiEE9push_backERKi
-                0x0000000000043010       0x25 Classe_evento.o
-                0x0000000000043010                std::vector<int, std::allocator<int> >::push_back(int const&)
- *fill*         0x0000000000043035        0xb 
+                0x00000000000428a0       0x25 Classe_evento.o
+                0x00000000000428a0                std::vector<int, std::allocator<int> >::push_back(int const&)
+ *fill*         0x00000000000428c5        0xb 
  .text._ZNSt6vectorIfSaIfEE19_M_emplace_back_auxIJfEEEvDpOT_
-                0x0000000000043040       0xe4 Classe_evento.o
-                0x0000000000043040                void std::vector<float, std::allocator<float> >::_M_emplace_back_aux<float>(float&&)
- *fill*         0x0000000000043124        0xc 
+                0x00000000000428d0       0xe4 Classe_evento.o
+                0x00000000000428d0                void std::vector<float, std::allocator<float> >::_M_emplace_back_aux<float>(float&&)
+ *fill*         0x00000000000429b4        0xc 
  .text._ZNSt6vectorIfSaIfEE12emplace_backIJfEEEvDpOT_
-                0x0000000000043130       0x25 Classe_evento.o
-                0x0000000000043130                void std::vector<float, std::allocator<float> >::emplace_back<float>(float&&)
- *fill*         0x0000000000043155        0xb 
+                0x00000000000429c0       0x25 Classe_evento.o
+                0x00000000000429c0                void std::vector<float, std::allocator<float> >::emplace_back<float>(float&&)
+ *fill*         0x00000000000429e5        0xb 
  .text._ZNSt6vectorIfSaIfEE9push_backERKf
-                0x0000000000043160       0x25 Classe_evento.o
-                0x0000000000043160                std::vector<float, std::allocator<float> >::push_back(float const&)
- *fill*         0x0000000000043185        0xb 
+                0x00000000000429f0       0x25 Classe_evento.o
+                0x00000000000429f0                std::vector<float, std::allocator<float> >::push_back(float const&)
+ *fill*         0x0000000000042a15        0xb 
  .text._ZNSt6vectorIfSaIfEEaSERKS1_
-                0x0000000000043190      0x15e Classe_evento.o
-                0x0000000000043190                std::vector<float, std::allocator<float> >::operator=(std::vector<float, std::allocator<float> > const&)
- *fill*         0x00000000000432ee        0x2 
+                0x0000000000042a20      0x15e Classe_evento.o
+                0x0000000000042a20                std::vector<float, std::allocator<float> >::operator=(std::vector<float, std::allocator<float> > const&)
+ *fill*         0x0000000000042b7e        0x2 
  .text._ZNSt6vectorIS_IfSaIfEESaIS1_EEaSERKS3_
-                0x00000000000432f0      0x3e0 Classe_evento.o
-                0x00000000000432f0                std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >::operator=(std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > const&)
- .text._ZSt13__adjust_heapIPiliN9__gnu_cxx5__ops15_Iter_comp_iterI11CompareDescIPKiEEEEvT_T0_SA_T1_T2_
-                0x00000000000436d0      0x123 Classe_evento.o
-                0x00000000000436d0                void std::__adjust_heap<int*, long, int, __gnu_cxx::__ops::_Iter_comp_iter<CompareDesc<int const*> > >(int*, long, long, int, __gnu_cxx::__ops::_Iter_comp_iter<CompareDesc<int const*> >)
- *fill*         0x00000000000437f3        0xd 
- .text._ZSt16__introsort_loopIPilN9__gnu_cxx5__ops15_Iter_comp_iterI11CompareDescIPKiEEEEvT_S9_T0_T1_
-                0x0000000000043800      0x1bf Classe_evento.o
-                0x0000000000043800                void std::__introsort_loop<int*, long, __gnu_cxx::__ops::_Iter_comp_iter<CompareDesc<int const*> > >(int*, int*, long, __gnu_cxx::__ops::_Iter_comp_iter<CompareDesc<int const*> >)
- *fill*         0x00000000000439bf        0x1 
- .text._ZSt13__adjust_heapIPiliN9__gnu_cxx5__ops15_Iter_comp_iterI10CompareAscIPKiEEEEvT_T0_SA_T1_T2_
-                0x00000000000439c0      0x123 Classe_evento.o
-                0x00000000000439c0                void std::__adjust_heap<int*, long, int, __gnu_cxx::__ops::_Iter_comp_iter<CompareAsc<int const*> > >(int*, long, long, int, __gnu_cxx::__ops::_Iter_comp_iter<CompareAsc<int const*> >)
- *fill*         0x0000000000043ae3        0xd 
- .text._ZSt16__introsort_loopIPilN9__gnu_cxx5__ops15_Iter_comp_iterI10CompareAscIPKiEEEEvT_S9_T0_T1_
-                0x0000000000043af0      0x1bf Classe_evento.o
-                0x0000000000043af0                void std::__introsort_loop<int*, long, __gnu_cxx::__ops::_Iter_comp_iter<CompareAsc<int const*> > >(int*, int*, long, __gnu_cxx::__ops::_Iter_comp_iter<CompareAsc<int const*> >)
- *fill*         0x0000000000043caf        0x1 
- .text._ZN5TMath4SortIiiEEvT0_PKT_PS1_b
-                0x0000000000043cb0      0x5fe Classe_evento.o
-                0x0000000000043cb0                void TMath::Sort<int, int>(int, int const*, int*, bool)
- *fill*         0x00000000000442ae        0x2 
- .text          0x00000000000442b0     0x34ec Classe_analisi.o
-                0x00000000000442b0                Classe_analisi::Set_Eventi(int*, int*, int*, int)
-                0x00000000000444e0                Classe_analisi::Set_Reazione(int, int, int, int, float, float)
-                0x00000000000449b0                Classe_analisi::Set_ReazioneVera(int, int, int, int, float, float)
-                0x0000000000045030                Classe_analisi::Set_TrigPlastichino(int)
-                0x0000000000045040                Classe_analisi::ApriFileUscita(char*)
-                0x00000000000450b0                Classe_analisi::ScriviFileUscita()
-                0x00000000000451d0                Classe_analisi::Leggi_Wapstra()
-                0x00000000000453c0                Classe_analisi::Loop_eventi()
-                0x0000000000046880                Classe_analisi::Getanalisi()
-                0x00000000000471b0                Classe_analisi::DefinisciHisto(char*)
-                0x0000000000047580                Classe_analisi::CreaNtupla()
- *fill*         0x000000000004779c        0x4 
+                0x0000000000042b80      0x3e0 Classe_evento.o
+                0x0000000000042b80                std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >::operator=(std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > const&)
+ .text          0x0000000000042f60     0x34ec Classe_analisi.o
+                0x0000000000042f60                Classe_analisi::Set_Eventi(int*, int*, int*, int)
+                0x0000000000043190                Classe_analisi::Set_Reazione(int, int, int, int, float, float)
+                0x0000000000043660                Classe_analisi::Set_ReazioneVera(int, int, int, int, float, float)
+                0x0000000000043ce0                Classe_analisi::Set_TrigPlastichino(int)
+                0x0000000000043cf0                Classe_analisi::ApriFileUscita(char*)
+                0x0000000000043d60                Classe_analisi::ScriviFileUscita()
+                0x0000000000043e80                Classe_analisi::Leggi_Wapstra()
+                0x0000000000044070                Classe_analisi::Loop_eventi()
+                0x0000000000045530                Classe_analisi::Getanalisi()
+                0x0000000000045e60                Classe_analisi::DefinisciHisto(char*)
+                0x0000000000046230                Classe_analisi::CreaNtupla()
+ *fill*         0x000000000004644c        0x4 
  .text._ZN10TAttMarker14SetMarkerStyleEs
-                0x00000000000477a0        0x5 Classe_analisi.o
-                0x00000000000477a0                TAttMarker::SetMarkerStyle(short)
- *fill*         0x00000000000477a5        0xb 
+                0x0000000000046450        0x5 Classe_analisi.o
+                0x0000000000046450                TAttMarker::SetMarkerStyle(short)
+ *fill*         0x0000000000046455        0xb 
  .text._ZN13Classe_evento6MixParD2Ev
-                0x00000000000477b0      0x370 Classe_analisi.o
-                0x00000000000477b0                Classe_evento::MixPar::~MixPar()
-                0x00000000000477b0                Classe_evento::MixPar::~MixPar()
+                0x0000000000046460      0x370 Classe_analisi.o
+                0x0000000000046460                Classe_evento::MixPar::~MixPar()
+                0x0000000000046460                Classe_evento::MixPar::~MixPar()
  .text._ZN13Classe_eventoUt_D2Ev
-                0x0000000000047b20      0x265 Classe_analisi.o
-                0x0000000000047b20                Classe_evento::{unnamed type#1}::~Classe_evento()
-                0x0000000000047b20                Classe_evento::{unnamed type#1}::~Classe_evento()
- *fill*         0x0000000000047d85        0xb 
+                0x00000000000467d0      0x265 Classe_analisi.o
+                0x00000000000467d0                Classe_evento::{unnamed type#1}::~Classe_evento()
+                0x00000000000467d0                Classe_evento::{unnamed type#1}::~Classe_evento()
+ *fill*         0x0000000000046a35        0xb 
  .text._ZNSt6vectorIS_IfSaIfEESaIS1_EE17_M_default_appendEm
-                0x0000000000047d90      0x234 Classe_analisi.o
-                0x0000000000047d90                std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >::_M_default_append(unsigned long)
- *fill*         0x0000000000047fc4        0xc 
+                0x0000000000046a40      0x234 Classe_analisi.o
+                0x0000000000046a40                std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >::_M_default_append(unsigned long)
+ *fill*         0x0000000000046c74        0xc 
  .text._ZNSt6vectorIS_IS_IfSaIfEESaIS1_EESaIS3_EE17_M_default_appendEm
-                0x0000000000047fd0      0x24c Classe_analisi.o
-                0x0000000000047fd0                std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > >::_M_default_append(unsigned long)
- *fill*         0x000000000004821c        0x4 
+                0x0000000000046c80      0x24c Classe_analisi.o
+                0x0000000000046c80                std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > >::_M_default_append(unsigned long)
+ *fill*         0x0000000000046ecc        0x4 
  .text._ZNSt6vectorIS_IS_IS_IfSaIfEESaIS1_EESaIS3_EESaIS5_EE17_M_default_appendEm
-                0x0000000000048220      0x293 Classe_analisi.o
-                0x0000000000048220                std::vector<std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > >, std::allocator<std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > > > >::_M_default_append(unsigned long)
- *fill*         0x00000000000484b3        0xd 
+                0x0000000000046ed0      0x293 Classe_analisi.o
+                0x0000000000046ed0                std::vector<std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > >, std::allocator<std::vector<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, std::allocator<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > > > > >::_M_default_append(unsigned long)
+ *fill*         0x0000000000047163        0xd 
  .text._ZNSt6vectorIiSaIiEE17_M_default_appendEm
-                0x00000000000484c0      0x15d Classe_analisi.o
-                0x00000000000484c0                std::vector<int, std::allocator<int> >::_M_default_append(unsigned long)
- *fill*         0x000000000004861d        0x3 
- .text          0x0000000000048620     0x502d perdenc.o
-                0x0000000000048620                schwalm
-                0x0000000000048a50                dedx
-                0x0000000000048b30                nudedx
-                0x0000000000048d90                leggimate
-                0x0000000000048ea0                integrale
-                0x0000000000048f30                creatab
-                0x000000000004a3c0                elosscore
-                0x000000000004af10                mateveda
-                0x000000000004b0e0                eloss
-                0x000000000004b9b0                eorig
-                0x000000000004c240                e2range
-                0x000000000004c540                range2e
-                0x000000000004c820                e2spes
-                0x000000000004cb30                spes2e
- *fill*         0x000000000004d64d        0x3 
- .text          0x000000000004d650       0x38 faianalisi.o
-                0x000000000004d650                mysignal(int)
- *fill*         0x000000000004d688        0x8 
- .text          0x000000000004d690      0x1be relkin.o
-                0x000000000004d690                relkin_
- *fill*         0x000000000004d84e        0x2 
- .text          0x000000000004d850       0x72 /usr/lib/x86_64-linux-gnu/libc_nonshared.a(elf-init.oS)
-                0x000000000004d850                __libc_csu_init
-                0x000000000004d8c0                __libc_csu_fini
- .text          0x000000000004d8c2        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/crtendS.o
- .text          0x000000000004d8c2        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/crtn.o
+                0x0000000000047170      0x15d Classe_analisi.o
+                0x0000000000047170                std::vector<int, std::allocator<int> >::_M_default_append(unsigned long)
+ *fill*         0x00000000000472cd        0x3 
+ .text          0x00000000000472d0     0x502d perdenc.o
+                0x00000000000472d0                schwalm
+                0x0000000000047700                dedx
+                0x00000000000477e0                nudedx
+                0x0000000000047a40                leggimate
+                0x0000000000047b50                integrale
+                0x0000000000047be0                creatab
+                0x0000000000049070                elosscore
+                0x0000000000049bc0                mateveda
+                0x0000000000049d90                eloss
+                0x000000000004a660                eorig
+                0x000000000004aef0                e2range
+                0x000000000004b1f0                range2e
+                0x000000000004b4d0                e2spes
+                0x000000000004b7e0                spes2e
+ *fill*         0x000000000004c2fd        0x3 
+ .text          0x000000000004c300       0x38 faianalisi.o
+                0x000000000004c300                mysignal(int)
+ *fill*         0x000000000004c338        0x8 
+ .text          0x000000000004c340      0x1be relkin.o
+                0x000000000004c340                relkin_
+ *fill*         0x000000000004c4fe        0x2 
+ .text          0x000000000004c500       0x72 /usr/lib/x86_64-linux-gnu/libc_nonshared.a(elf-init.oS)
+                0x000000000004c500                __libc_csu_init
+                0x000000000004c570                __libc_csu_fini
+ .text          0x000000000004c572        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/crtendS.o
+ .text          0x000000000004c572        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/crtn.o
  *(.gnu.warning)
 
-.fini           0x000000000004d8c4        0x9
+.fini           0x000000000004c574        0x9
  *(SORT(.fini))
- .fini          0x000000000004d8c4        0x4 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/crti.o
-                0x000000000004d8c4                _fini
- .fini          0x000000000004d8c8        0x5 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/crtn.o
+ .fini          0x000000000004c574        0x4 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/crti.o
+                0x000000000004c574                _fini
+ .fini          0x000000000004c578        0x5 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/crtn.o
                 [!provide]                        PROVIDE (__etext, .)
                 [!provide]                        PROVIDE (_etext, .)
                 [!provide]                        PROVIDE (etext, .)
 
-.rodata         0x000000000004d8e0     0x4c10
+.rodata         0x000000000004c580     0x4bd0
  *(.rodata .rodata.* .gnu.linkonce.r.*)
- .rodata.cst4   0x000000000004d8e0        0x4 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
-                0x000000000004d8e0                _IO_stdin_used
+ .rodata.cst4   0x000000000004c580        0x4 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+                0x000000000004c580                _IO_stdin_used
  .rodata.str1.1
-                0x000000000004d8e4        0xb vedaloss.o
- *fill*         0x000000000004d8ef        0x1 
- .rodata        0x000000000004d8f0       0x3e vedaloss.o
- *fill*         0x000000000004d92e        0x2 
- .rodata.cst8   0x000000000004d930      0x178 vedaloss.o
+                0x000000000004c584        0xb vedaloss.o
+ *fill*         0x000000000004c58f        0x1 
+ .rodata        0x000000000004c590       0x3e vedaloss.o
+ *fill*         0x000000000004c5ce        0x2 
+ .rodata.cst8   0x000000000004c5d0      0x178 vedaloss.o
  .rodata.str1.1
-                0x000000000004daa8        0xd ecorr_veda.o
- *fill*         0x000000000004dab5        0xb 
- .rodata        0x000000000004dac0      0x188 ecorr_veda.o
- .rodata.cst8   0x000000000004dc48       0xc0 ecorr_veda.o
+                0x000000000004c748        0xd ecorr_veda.o
+ *fill*         0x000000000004c755        0xb 
+ .rodata        0x000000000004c760      0x188 ecorr_veda.o
+ .rodata.cst8   0x000000000004c8e8       0xc0 ecorr_veda.o
                                          0xe0 (size before relaxing)
- *fill*         0x000000000004dd08        0x8 
- .rodata.cst16  0x000000000004dd10       0x10 ecorr_veda.o
- .rodata.cst4   0x000000000004dd20        0xc ecorr_veda.o
+ *fill*         0x000000000004c9a8        0x8 
+ .rodata.cst16  0x000000000004c9b0       0x10 ecorr_veda.o
+ .rodata.cst4   0x000000000004c9c0        0xc ecorr_veda.o
  .rodata.str1.1
-                0x000000000004dd2c        0xd theta_flow.o
- .rodata        0x000000000004dd39       0x19 theta_flow.o
- *fill*         0x000000000004dd52        0xe 
- .rodata.cst16  0x000000000004dd60       0x10 theta_flow.o
+                0x000000000004c9cc        0xd theta_flow.o
+ .rodata        0x000000000004c9d9       0x19 theta_flow.o
+ *fill*         0x000000000004c9f2        0xe 
+ .rodata.cst16  0x000000000004ca00       0x10 theta_flow.o
                                          0x20 (size before relaxing)
- .rodata.cst8   0x000000000004dd70       0x20 theta_flow.o
+ .rodata.cst8   0x000000000004ca10       0x20 theta_flow.o
                                          0x28 (size before relaxing)
- .rodata.cst4   0x000000000004dd90        0x8 theta_flow.o
+ .rodata.cst4   0x000000000004ca30        0x8 theta_flow.o
                                           0xc (size before relaxing)
  .rodata._ZN14Classe_formule6QualeAEi
-                0x000000000004dd98       0x24 Classe_geo.o
+                0x000000000004ca38       0x24 Classe_geo.o
  .rodata.str1.1
-                0x000000000004ddbc      0x3f2 Classe_geo.o
+                0x000000000004ca5c      0x3f2 Classe_geo.o
                                         0x493 (size before relaxing)
- *fill*         0x000000000004e1ae        0x2 
+ *fill*         0x000000000004ce4e        0x2 
  .rodata.str1.8
-                0x000000000004e1b0      0x6ea Classe_geo.o
- *fill*         0x000000000004e89a        0x6 
- .rodata        0x000000000004e8a0      0x4a2 Classe_geo.o
- *fill*         0x000000000004ed42        0x6 
- .rodata.cst8   0x000000000004ed48      0x1e8 Classe_geo.o
+                0x000000000004ce50      0x6ea Classe_geo.o
+ *fill*         0x000000000004d53a        0x6 
+ .rodata        0x000000000004d540      0x4a2 Classe_geo.o
+ *fill*         0x000000000004d9e2        0x6 
+ .rodata.cst8   0x000000000004d9e8      0x1e8 Classe_geo.o
                                         0x230 (size before relaxing)
- .rodata.cst16  0x000000000004ef30      0x140 Classe_geo.o
+ .rodata.cst16  0x000000000004dbd0      0x140 Classe_geo.o
                                         0x160 (size before relaxing)
- .rodata.cst4   0x000000000004f070       0x90 Classe_geo.o
+ .rodata.cst4   0x000000000004dd10       0x90 Classe_geo.o
                                          0xa0 (size before relaxing)
  .rodata.str1.8
-                0x000000000004f100      0x1ba Classe_evento.o
+                0x000000000004dda0      0x1ba Classe_evento.o
  .rodata.str1.1
-                0x000000000004f2ba      0x378 Classe_evento.o
-                                        0x39b (size before relaxing)
- *fill*         0x000000000004f632        0xe 
- .rodata        0x000000000004f640     0x1384 Classe_evento.o
- *fill*         0x00000000000509c4        0x4 
+                0x000000000004df5a      0x35b Classe_evento.o
+                                        0x37e (size before relaxing)
+ *fill*         0x000000000004e2b5        0xb 
+ .rodata        0x000000000004e2c0     0x1384 Classe_evento.o
+ *fill*         0x000000000004f644        0x4 
  .rodata._ZTSA1000_i
-                0x00000000000509c8        0x8 Classe_evento.o
-                0x00000000000509c8                typeinfo name for int [1000]
+                0x000000000004f648        0x8 Classe_evento.o
+                0x000000000004f648                typeinfo name for int [1000]
  .rodata._ZTSA1000_f
-                0x00000000000509d0        0x8 Classe_evento.o
-                0x00000000000509d0                typeinfo name for float [1000]
- .rodata.cst8   0x00000000000509d8      0x188 Classe_evento.o
+                0x000000000004f650        0x8 Classe_evento.o
+                0x000000000004f650                typeinfo name for float [1000]
+ .rodata.cst8   0x000000000004f658      0x188 Classe_evento.o
                                         0x270 (size before relaxing)
- .rodata.cst4   0x0000000000050b60       0x14 Classe_evento.o
+ .rodata.cst4   0x000000000004f7e0       0x14 Classe_evento.o
                                          0x50 (size before relaxing)
- *fill*         0x0000000000050b74        0xc 
- .rodata.cst16  0x0000000000050b80       0x40 Classe_evento.o
-                                         0x70 (size before relaxing)
+ *fill*         0x000000000004f7f4        0xc 
+ .rodata.cst16  0x000000000004f800       0x20 Classe_evento.o
+                                         0x50 (size before relaxing)
  .rodata.str1.1
-                0x0000000000050bc0      0x1c4 Classe_analisi.o
+                0x000000000004f820      0x1c4 Classe_analisi.o
                                         0x1fb (size before relaxing)
- *fill*         0x0000000000050d84        0x4 
+ *fill*         0x000000000004f9e4        0x4 
  .rodata.str1.8
-                0x0000000000050d88      0x1ec Classe_analisi.o
+                0x000000000004f9e8      0x1ec Classe_analisi.o
  .rodata._ZNSt6vectorIS_IfSaIfEESaIS1_EE17_M_default_appendEm.str1.1
-                0x0000000000050f74       0x1a Classe_analisi.o
- *fill*         0x0000000000050f8e        0x2 
- .rodata.cst4   0x0000000000050f90        0x4 Classe_analisi.o
+                0x000000000004fbd4       0x1a Classe_analisi.o
+ *fill*         0x000000000004fbee        0x2 
+ .rodata.cst4   0x000000000004fbf0        0x4 Classe_analisi.o
                                          0x10 (size before relaxing)
- *fill*         0x0000000000050f94        0x4 
- .rodata.cst8   0x0000000000050f98       0x28 Classe_analisi.o
+ *fill*         0x000000000004fbf4        0x4 
+ .rodata.cst8   0x000000000004fbf8       0x28 Classe_analisi.o
                                          0x68 (size before relaxing)
- .rodata.cst16  0x0000000000050fc0       0x10 Classe_analisi.o
+ .rodata.cst16  0x000000000004fc20       0x10 Classe_analisi.o
                                          0x20 (size before relaxing)
- *fill*         0x0000000000050fd0       0x10 
- .rodata        0x0000000000050fe0      0xa30 perdenc.o
-                0x0000000000051760                M
+ *fill*         0x000000000004fc30       0x10 
+ .rodata        0x000000000004fc40      0xa30 perdenc.o
+                0x00000000000503c0                M
  .rodata.str1.1
-                0x0000000000051a10       0x6f perdenc.o
+                0x0000000000050670       0x6f perdenc.o
                                          0x7f (size before relaxing)
- *fill*         0x0000000000051a7f        0x1 
+ *fill*         0x00000000000506df        0x1 
  .rodata.str1.8
-                0x0000000000051a80      0x283 perdenc.o
- *fill*         0x0000000000051d03        0x5 
- .rodata.cst8   0x0000000000051d08      0x1c8 perdenc.o
+                0x00000000000506e0      0x283 perdenc.o
+ *fill*         0x0000000000050963        0x5 
+ .rodata.cst8   0x0000000000050968      0x1c8 perdenc.o
                                         0x258 (size before relaxing)
- .rodata.cst16  0x0000000000051ed0       0x10 perdenc.o
+ .rodata.cst16  0x0000000000050b30       0x10 perdenc.o
                                          0x20 (size before relaxing)
- .rodata.cst4   0x0000000000051ee0       0x10 perdenc.o
+ .rodata.cst4   0x0000000000050b40       0x10 perdenc.o
  .rodata.str1.8
-                0x0000000000051ee0      0x260 faianalisi.o
+                0x0000000000050b40      0x260 faianalisi.o
                                         0x25e (size before relaxing)
  .rodata.str1.1
-                0x0000000000052140      0x39a faianalisi.o
+                0x0000000000050da0      0x39a faianalisi.o
                                         0x3e8 (size before relaxing)
- .rodata.cst4   0x00000000000524da        0x4 faianalisi.o
- *fill*         0x00000000000524da        0x6 
- .rodata.cst8   0x00000000000524e0       0x10 relkin.o
+ .rodata.cst4   0x000000000005113a        0x4 faianalisi.o
+ *fill*         0x000000000005113a        0x6 
+ .rodata.cst8   0x0000000000051140       0x10 relkin.o
                                          0x18 (size before relaxing)
 
 .rodata1
  *(.rodata1)
 
-.eh_frame_hdr   0x00000000000524f0      0x574
+.eh_frame_hdr   0x0000000000051150      0x53c
  *(.eh_frame_hdr)
- .eh_frame_hdr  0x00000000000524f0      0x574 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
-                0x00000000000524f0                __GNU_EH_FRAME_HDR
+ .eh_frame_hdr  0x0000000000051150      0x53c /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+                0x0000000000051150                __GNU_EH_FRAME_HDR
  *(.eh_frame_entry .eh_frame_entry.*)
 
-.eh_frame       0x0000000000052a68     0x2f0c
+.eh_frame       0x0000000000051690     0x2d4c
  *(.eh_frame)
- .eh_frame      0x0000000000052a68       0x30 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
- .eh_frame      0x0000000000052a98       0x40 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
- .eh_frame      0x0000000000052ad8       0x18 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+ .eh_frame      0x0000000000051690       0x30 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+ .eh_frame      0x00000000000516c0       0x40 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+ .eh_frame      0x0000000000051700       0x18 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
                                          0x30 (size before relaxing)
- .eh_frame      0x0000000000052af0       0x80 vedaloss.o
+ .eh_frame      0x0000000000051718       0x80 vedaloss.o
                                          0x98 (size before relaxing)
- .eh_frame      0x0000000000052b70      0x2e8 ecorr_veda.o
+ .eh_frame      0x0000000000051798      0x2e8 ecorr_veda.o
                                         0x2e0 (size before relaxing)
- .eh_frame      0x0000000000052e58      0x2f8 theta_flow.o
- .eh_frame      0x0000000000053150      0xc90 Classe_geo.o
+ .eh_frame      0x0000000000051a80      0x2f8 theta_flow.o
+ .eh_frame      0x0000000000051d78      0xc90 Classe_geo.o
                                         0xc58 (size before relaxing)
- .eh_frame      0x0000000000053de0     0x1060 Classe_evento.o
-                                       0x1068 (size before relaxing)
- .eh_frame      0x0000000000054e40      0x528 Classe_analisi.o
+ .eh_frame      0x0000000000052a08      0xea0 Classe_evento.o
+                                        0xeb0 (size before relaxing)
+ .eh_frame      0x00000000000538a8      0x528 Classe_analisi.o
                                         0x5b0 (size before relaxing)
- .eh_frame      0x0000000000055368      0x4a8 perdenc.o
- .eh_frame      0x0000000000055810       0xd0 faianalisi.o
+ .eh_frame      0x0000000000053dd0      0x4a8 perdenc.o
+ .eh_frame      0x0000000000054278       0xd0 faianalisi.o
                                         0x158 (size before relaxing)
- .eh_frame      0x00000000000558e0       0x30 relkin.o
+ .eh_frame      0x0000000000054348       0x30 relkin.o
                                          0x48 (size before relaxing)
- .eh_frame      0x0000000000055910       0x60 /usr/lib/x86_64-linux-gnu/libc_nonshared.a(elf-init.oS)
+ .eh_frame      0x0000000000054378       0x60 /usr/lib/x86_64-linux-gnu/libc_nonshared.a(elf-init.oS)
                                          0x78 (size before relaxing)
- .eh_frame      0x0000000000055970        0x4 /usr/lib/gcc/x86_64-linux-gnu/6/crtendS.o
+ .eh_frame      0x00000000000543d8        0x4 /usr/lib/gcc/x86_64-linux-gnu/6/crtendS.o
  *(.eh_frame.*)
 
 .gcc_except_table
-                0x0000000000055974      0xb08
+                0x00000000000543dc      0xa9c
  *(.gcc_except_table .gcc_except_table.*)
  .gcc_except_table._ZN6TNamedC2EPKcS1_
-                0x0000000000055974       0x14 Classe_geo.o
+                0x00000000000543dc       0x14 Classe_geo.o
  .gcc_except_table
-                0x0000000000055988      0x234 Classe_geo.o
+                0x00000000000543f0      0x234 Classe_geo.o
  .gcc_except_table
-                0x0000000000055bbc      0x657 Classe_evento.o
+                0x0000000000054624      0x5eb Classe_evento.o
  .gcc_except_table
-                0x0000000000056213       0x9a Classe_analisi.o
+                0x0000000000054c0f       0x9a Classe_analisi.o
  .gcc_except_table
-                0x00000000000562ad      0x1cf faianalisi.o
+                0x0000000000054ca9      0x1cf faianalisi.o
 
 .gnu_extab
  *(.gnu_extab*)
 
 .exception_ranges
  *(.exception_ranges .exception_ranges*)
-                0x00000000002569a8                . = DATA_SEGMENT_ALIGN (CONSTANT (MAXPAGESIZE), CONSTANT (COMMONPAGESIZE))
+                0x00000000002559a8                . = DATA_SEGMENT_ALIGN (CONSTANT (MAXPAGESIZE), CONSTANT (COMMONPAGESIZE))
 
 .eh_frame
  *(.eh_frame)
@@ -861,27 +830,27 @@ LOAD /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/crtn.o
  *(.tbss .tbss.* .gnu.linkonce.tb.*)
  *(.tcommon)
 
-.preinit_array  0x00000000002569a8        0x0
+.preinit_array  0x00000000002559a8        0x0
                 [!provide]                        PROVIDE (__preinit_array_start, .)
  *(.preinit_array)
                 [!provide]                        PROVIDE (__preinit_array_end, .)
 
-.init_array     0x00000000002569a8       0x28
-                0x00000000002569a8                PROVIDE (__init_array_start, .)
+.init_array     0x00000000002559a8       0x28
+                0x00000000002559a8                PROVIDE (__init_array_start, .)
  *(SORT(.init_array.*) SORT(.ctors.*))
  *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
- .init_array    0x00000000002569a8        0x8 /usr/lib/gcc/x86_64-linux-gnu/6/crtbeginS.o
- .init_array    0x00000000002569b0        0x8 Classe_geo.o
- .init_array    0x00000000002569b8        0x8 Classe_evento.o
- .init_array    0x00000000002569c0        0x8 Classe_analisi.o
- .init_array    0x00000000002569c8        0x8 faianalisi.o
-                0x00000000002569d0                PROVIDE (__init_array_end, .)
+ .init_array    0x00000000002559a8        0x8 /usr/lib/gcc/x86_64-linux-gnu/6/crtbeginS.o
+ .init_array    0x00000000002559b0        0x8 Classe_geo.o
+ .init_array    0x00000000002559b8        0x8 Classe_evento.o
+ .init_array    0x00000000002559c0        0x8 Classe_analisi.o
+ .init_array    0x00000000002559c8        0x8 faianalisi.o
+                0x00000000002559d0                PROVIDE (__init_array_end, .)
 
-.fini_array     0x00000000002569d0        0x8
+.fini_array     0x00000000002559d0        0x8
                 [!provide]                        PROVIDE (__fini_array_start, .)
  *(SORT(.fini_array.*) SORT(.dtors.*))
  *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
- .fini_array    0x00000000002569d0        0x8 /usr/lib/gcc/x86_64-linux-gnu/6/crtbeginS.o
+ .fini_array    0x00000000002559d0        0x8 /usr/lib/gcc/x86_64-linux-gnu/6/crtbeginS.o
                 [!provide]                        PROVIDE (__fini_array_end, .)
 
 .ctors
@@ -898,147 +867,147 @@ LOAD /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/crtn.o
  *(SORT(.dtors.*))
  *(.dtors)
 
-.jcr            0x00000000002569d8        0x8
+.jcr            0x00000000002559d8        0x8
  *(.jcr)
- .jcr           0x00000000002569d8        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/crtbeginS.o
- .jcr           0x00000000002569d8        0x8 /usr/lib/gcc/x86_64-linux-gnu/6/crtendS.o
+ .jcr           0x00000000002559d8        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/crtbeginS.o
+ .jcr           0x00000000002559d8        0x8 /usr/lib/gcc/x86_64-linux-gnu/6/crtendS.o
 
-.data.rel.ro    0x00000000002569e0      0x298
+.data.rel.ro    0x00000000002559e0      0x298
  *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
  *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
- *fill*         0x00000000002569e0        0x0 
- .data.rel.ro   0x00000000002569e0      0x278 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
-                0x00000000002569e0                typeinfo for double@@CXXABI_1.3
-                0x0000000000256a00                typeinfo for unsigned int@@CXXABI_1.3
-                0x0000000000256a20                typeinfo for char@@CXXABI_1.3
-                0x0000000000256a30                typeinfo for int@@CXXABI_1.3
-                0x0000000000256a40                typeinfo for float@@CXXABI_1.3
-                0x0000000000256a50                vtable for TNamed
+ *fill*         0x00000000002559e0        0x0 
+ .data.rel.ro   0x00000000002559e0      0x278 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+                0x00000000002559e0                typeinfo for double@@CXXABI_1.3
+                0x0000000000255a00                typeinfo for unsigned int@@CXXABI_1.3
+                0x0000000000255a20                typeinfo for char@@CXXABI_1.3
+                0x0000000000255a30                typeinfo for int@@CXXABI_1.3
+                0x0000000000255a40                typeinfo for float@@CXXABI_1.3
+                0x0000000000255a50                vtable for TNamed
  .data.rel.ro._ZTIA1000_i
-                0x0000000000256c58       0x10 Classe_evento.o
-                0x0000000000256c58                typeinfo for int [1000]
+                0x0000000000255c58       0x10 Classe_evento.o
+                0x0000000000255c58                typeinfo for int [1000]
  .data.rel.ro._ZTIA1000_f
-                0x0000000000256c68       0x10 Classe_evento.o
-                0x0000000000256c68                typeinfo for float [1000]
+                0x0000000000255c68       0x10 Classe_evento.o
+                0x0000000000255c68                typeinfo for float [1000]
 
-.dynamic        0x0000000000256c78      0x340
+.dynamic        0x0000000000255c78      0x340
  *(.dynamic)
- .dynamic       0x0000000000256c78      0x340 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
-                0x0000000000256c78                _DYNAMIC
+ .dynamic       0x0000000000255c78      0x340 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+                0x0000000000255c78                _DYNAMIC
 
-.got            0x0000000000256fb8       0x38
+.got            0x0000000000255fb8       0x38
  *(.got)
- .got           0x0000000000256fb8       0x38 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+ .got           0x0000000000255fb8       0x38 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
  *(.igot)
-                0x0000000000257fe8                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0x18)?0x18:0x0)
+                0x0000000000256fe8                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0x18)?0x18:0x0)
 
-.got.plt        0x0000000000257000      0x370
+.got.plt        0x0000000000256000      0x370
  *(.got.plt)
- .got.plt       0x0000000000257000      0x370 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
-                0x0000000000257000                _GLOBAL_OFFSET_TABLE_
+ .got.plt       0x0000000000256000      0x370 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+                0x0000000000256000                _GLOBAL_OFFSET_TABLE_
  *(.igot.plt)
 
-.data           0x0000000000257370       0x18
+.data           0x0000000000256370       0x18
  *(.data .data.* .gnu.linkonce.d.*)
- .data          0x0000000000257370        0x4 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
-                0x0000000000257370                __data_start
-                0x0000000000257370                data_start
- .data          0x0000000000257374        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/crti.o
- .data          0x0000000000257374        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/crtbeginS.o
- *fill*         0x0000000000257374        0x4 
+ .data          0x0000000000256370        0x4 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+                0x0000000000256370                __data_start
+                0x0000000000256370                data_start
+ .data          0x0000000000256374        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000256374        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/crtbeginS.o
+ *fill*         0x0000000000256374        0x4 
  .data.rel.local
-                0x0000000000257378        0x8 /usr/lib/gcc/x86_64-linux-gnu/6/crtbeginS.o
-                0x0000000000257378                __dso_handle
- .data          0x0000000000257380        0x0 vedaloss.o
- .data          0x0000000000257380        0x0 ecorr_veda.o
- .data          0x0000000000257380        0x0 theta_flow.o
- .data          0x0000000000257380        0x0 Classe_geo.o
+                0x0000000000256378        0x8 /usr/lib/gcc/x86_64-linux-gnu/6/crtbeginS.o
+                0x0000000000256378                __dso_handle
+ .data          0x0000000000256380        0x0 vedaloss.o
+ .data          0x0000000000256380        0x0 ecorr_veda.o
+ .data          0x0000000000256380        0x0 theta_flow.o
+ .data          0x0000000000256380        0x0 Classe_geo.o
  .data.DW.ref.__gxx_personality_v0
-                0x0000000000257380        0x8 Classe_geo.o
-                0x0000000000257380                DW.ref.__gxx_personality_v0
- .data          0x0000000000257388        0x0 Classe_evento.o
- .data          0x0000000000257388        0x0 Classe_analisi.o
- .data          0x0000000000257388        0x0 perdenc.o
- .data          0x0000000000257388        0x0 faianalisi.o
- .data          0x0000000000257388        0x0 relkin.o
- .data          0x0000000000257388        0x0 /usr/lib/x86_64-linux-gnu/libc_nonshared.a(elf-init.oS)
- .data          0x0000000000257388        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/crtendS.o
- .data          0x0000000000257388        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/crtn.o
+                0x0000000000256380        0x8 Classe_geo.o
+                0x0000000000256380                DW.ref.__gxx_personality_v0
+ .data          0x0000000000256388        0x0 Classe_evento.o
+ .data          0x0000000000256388        0x0 Classe_analisi.o
+ .data          0x0000000000256388        0x0 perdenc.o
+ .data          0x0000000000256388        0x0 faianalisi.o
+ .data          0x0000000000256388        0x0 relkin.o
+ .data          0x0000000000256388        0x0 /usr/lib/x86_64-linux-gnu/libc_nonshared.a(elf-init.oS)
+ .data          0x0000000000256388        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/crtendS.o
+ .data          0x0000000000256388        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/crtn.o
 
 .tm_clone_table
-                0x0000000000257388        0x0
+                0x0000000000256388        0x0
  .tm_clone_table
-                0x0000000000257388        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/crtbeginS.o
+                0x0000000000256388        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/crtbeginS.o
  .tm_clone_table
-                0x0000000000257388        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/crtendS.o
+                0x0000000000256388        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/crtendS.o
 
 .data1
  *(.data1)
-                0x0000000000257388                _edata = .
+                0x0000000000256388                _edata = .
                 [!provide]                        PROVIDE (edata, .)
-                0x0000000000257388                . = .
-                0x0000000000257388                __bss_start = .
+                0x0000000000256388                . = .
+                0x0000000000256388                __bss_start = .
 
-.bss            0x00000000002573a0    0x51950
+.bss            0x00000000002563a0    0x51950
  *(.dynbss)
- .dynbss        0x00000000002573a0      0x130 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
-                0x00000000002573a0                gRandom
-                0x00000000002573c0                std::cout@@GLIBCXX_3.4
+ .dynbss        0x00000000002563a0      0x130 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+                0x00000000002563a0                gRandom
+                0x00000000002563c0                std::cout@@GLIBCXX_3.4
  *(.bss .bss.* .gnu.linkonce.b.*)
- .bss           0x00000000002574d0        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
- .bss           0x00000000002574d0        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/crti.o
- .bss           0x00000000002574d0        0x1 /usr/lib/gcc/x86_64-linux-gnu/6/crtbeginS.o
- .bss           0x00000000002574d1        0x0 vedaloss.o
- .bss           0x00000000002574d1        0x0 ecorr_veda.o
- .bss           0x00000000002574d1        0x0 theta_flow.o
- *fill*         0x00000000002574d1        0x7 
- .bss           0x00000000002574d8        0xa Classe_geo.o
-                0x00000000002574d8                Classe_geo::geo
- .bss           0x00000000002574e2        0x2 Classe_evento.o
- *fill*         0x00000000002574e4        0x4 
- .bss           0x00000000002574e8        0xa Classe_analisi.o
-                0x00000000002574e8                Classe_analisi::ana
- *fill*         0x00000000002574f2        0x6 
- .bss           0x00000000002574f8        0x8 perdenc.o
-                0x00000000002574f8                db
- .bss           0x0000000000257500        0x2 faianalisi.o
- .bss           0x0000000000257502        0x0 relkin.o
- .bss           0x0000000000257502        0x0 /usr/lib/x86_64-linux-gnu/libc_nonshared.a(elf-init.oS)
- .bss           0x0000000000257502        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/crtendS.o
- .bss           0x0000000000257502        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/crtn.o
+ .bss           0x00000000002564d0        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o
+ .bss           0x00000000002564d0        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/crti.o
+ .bss           0x00000000002564d0        0x1 /usr/lib/gcc/x86_64-linux-gnu/6/crtbeginS.o
+ .bss           0x00000000002564d1        0x0 vedaloss.o
+ .bss           0x00000000002564d1        0x0 ecorr_veda.o
+ .bss           0x00000000002564d1        0x0 theta_flow.o
+ *fill*         0x00000000002564d1        0x7 
+ .bss           0x00000000002564d8        0xa Classe_geo.o
+                0x00000000002564d8                Classe_geo::geo
+ .bss           0x00000000002564e2        0x2 Classe_evento.o
+ *fill*         0x00000000002564e4        0x4 
+ .bss           0x00000000002564e8        0xa Classe_analisi.o
+                0x00000000002564e8                Classe_analisi::ana
+ *fill*         0x00000000002564f2        0x6 
+ .bss           0x00000000002564f8        0x8 perdenc.o
+                0x00000000002564f8                db
+ .bss           0x0000000000256500        0x2 faianalisi.o
+ .bss           0x0000000000256502        0x0 relkin.o
+ .bss           0x0000000000256502        0x0 /usr/lib/x86_64-linux-gnu/libc_nonshared.a(elf-init.oS)
+ .bss           0x0000000000256502        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/crtendS.o
+ .bss           0x0000000000256502        0x0 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/crtn.o
  *(COMMON)
- *fill*         0x0000000000257502       0x1e 
- COMMON         0x0000000000257520    0x4ff30 vedaloss.o
-                0x0000000000257520                mainve_
- *fill*         0x00000000002a7450       0x10 
- COMMON         0x00000000002a7460       0xd8 ecorr_veda.o
-                0x00000000002a7460                los_
-                0x00000000002a74f0                toto_
-                0x00000000002a7500                estrapo_
-                0x00000000002a7520                statevt_
- *fill*         0x00000000002a7538        0x8 
- COMMON         0x00000000002a7540     0x17b0 theta_flow.o
-                0x00000000002a7540                eigen_
-                0x00000000002a7580                perflowpvec_
-                0x00000000002a8cf0                . = ALIGN ((. != 0x0)?0x8:0x1)
+ *fill*         0x0000000000256502       0x1e 
+ COMMON         0x0000000000256520    0x4ff30 vedaloss.o
+                0x0000000000256520                mainve_
+ *fill*         0x00000000002a6450       0x10 
+ COMMON         0x00000000002a6460       0xd8 ecorr_veda.o
+                0x00000000002a6460                los_
+                0x00000000002a64f0                toto_
+                0x00000000002a6500                estrapo_
+                0x00000000002a6520                statevt_
+ *fill*         0x00000000002a6538        0x8 
+ COMMON         0x00000000002a6540     0x17b0 theta_flow.o
+                0x00000000002a6540                eigen_
+                0x00000000002a6580                perflowpvec_
+                0x00000000002a7cf0                . = ALIGN ((. != 0x0)?0x8:0x1)
 
 .lbss
  *(.dynlbss)
  *(.lbss .lbss.* .gnu.linkonce.lb.*)
  *(LARGE_COMMON)
-                0x00000000002a8cf0                . = ALIGN (0x8)
-                0x00000000002a8cf0                . = SEGMENT_START ("ldata-segment", .)
+                0x00000000002a7cf0                . = ALIGN (0x8)
+                0x00000000002a7cf0                . = SEGMENT_START ("ldata-segment", .)
 
 .lrodata
  *(.lrodata .lrodata.* .gnu.linkonce.lr.*)
 
-.ldata          0x00000000006a8cf0        0x0
+.ldata          0x00000000006a7cf0        0x0
  *(.ldata .ldata.* .gnu.linkonce.l.*)
-                0x00000000006a8cf0                . = ALIGN ((. != 0x0)?0x8:0x1)
-                0x00000000006a8cf0                . = ALIGN (0x8)
-                0x00000000006a8cf0                _end = .
+                0x00000000006a7cf0                . = ALIGN ((. != 0x0)?0x8:0x1)
+                0x00000000006a7cf0                . = ALIGN (0x8)
+                0x00000000006a7cf0                _end = .
                 [!provide]                        PROVIDE (end, .)
-                0x00000000006a8cf0                . = DATA_SEGMENT_END (.)
+                0x00000000006a7cf0                . = DATA_SEGMENT_END (.)
 
 .stab
  *(.stab)
